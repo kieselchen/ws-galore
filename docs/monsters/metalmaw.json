@@ -1,0 +1,16 @@
+[{
+	"label": "Notes of the Eldan",
+	"entries": [{
+        "order":      1,
+        "headline": "Beneficial Traits",
+        "content": "The Metal Maw Initiative is one of our most advanced experiments - a combination of augmentation technology and advanced biomechanical engineering.\n\nWe have chosen a number of creatures whose traits fit our project parameters, and soon will begin the difficult process of combining them into a meta-organism engineered to dominate any ecological system.",
+        "source":     "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+		"order": 2,
+		"headline": "Organic Combination",
+        "content": "The Metal Maw Initiative is complete. When on land, the creature uses a pair of thick forelimbs for locomotion, and when submerged, a powerful tail and posterior fins allow it to achieve unparalleled speed and maneuverability.\n\nA short and heavily muscled neck connects its head to the broad torso, culminating in a wide, gaping maw lined with rows of razor-sharp teeth.\n\nSimply put, the beast is brilliantly designed - a frightening example of advanced genetic engineering.",
+        "source": "Datacube by Nazrek",
+		"sourcetype": "datacube"
+	}]
+}]

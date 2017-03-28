@@ -1,0 +1,608 @@
+{
+    "Technology: Terraforming": [{
+        "order": 1,
+        "headline": "Biological Variety",
+        "content": "I continue to be impressed by our progress. The sheer variety of life forms that have arisen here far exceed even our most conservative projections, indicating that Nexus will indeed provide a suitable location for achieving the ultimate goals of the Project.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Environmental Transformation",
+        "content": "This terraformer is a powerful device, allowing those of my order to dynamically change the physical properties of local terrain. At the same time, it initiates the hyper-accelerated evolution of local creatures, allowing them to better survive in the new environment. Such power is liberating... and dangerous.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Evolutionary Impact",
+        "content": "This region displays a stunning array of biological diversity, a result of the accelerated evolutionary forces unleashed during the Project’s first phase.\n\nThe Shapers are deploying a terraformer to the east, and I am curious to see what effect the device will have on these organisms.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Aborted Effort",
+        "content": "As per the request of the Shapers, I have delivered the terraformer - but a subterranean scan of this region has revealed a massive reservoir of primal water directly beneath it, and I am recommending that the experiment be aborted immediately.\n\nInitiating the device in such an unstable environment would have catastrophic results.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Grim Warning",
+        "content": "There is a dangerous sort of beauty to this region, with its formidable, towering walls of ice and violent swirling snowstorms.\n\nScientifically, these things can be explained away through their nearness to the Focus of Water - but personally I feel as if they stand as a grim warning about the dangerous experiment that we are about to engage in.",
+        "source": "Datacube by Elyona",
+        "sourcetype": "datacube"
+    }, {
+        "order": 6,
+        "headline": "Primal Matrix",
+        "content": "The primal energy matrix in this region is exponentially stronger than any I have ever measured.\n\nAs a result, I have created a device that can directly access the matrix and then convert and store the power for later use.\n\nSuch technology has always been theoretically feasible, but the unique properties of Nexus have made it a reality. With access to this almost unlimited power source, there is almost nothing we cannot achieve here.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 7,
+        "headline": "Future Consequences",
+        "content": "I have completed my survey of this region, and I am as impressed with its geologic diversity as I have been with the rest of this planet.\n\nIt is difficult to imagine a more suitable location to embark on the Project, although I continue to harbor concerns about the consequences if indeed we are successful. Not surprisingly, my opinions have not been popular among my colleagues.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 8,
+        "headline": "Geological Strata",
+        "content": "The sheer geological variety on the surface of the planet is awe-inspiring, a testament to the titanic forces unleashed during its formation. The more time I spend here, the harder it is to imagine the planet’s fate once we have achieved the ultimate goals of the Project.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 9,
+        "headline": "Masterful Achievement",
+        "content": "There are times when I gaze down upon the majesty of the planet’s surface, and wonder at all that we have achieved in so little time. To the uninformed observer, this place would merely appear as an unassuming world at the edge of the galaxy, but only we know the secrets of what lies beneath its placid facade.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 10,
+        "headline": "Phase 1: Unacceptable Loss",
+        "content": "A recent large asteroid impact destroyed the silo below, rendering it completely useless for the scheduled terraforming experiments.\n\nAlthough this occurrence is unfortunate, the Makers assure me that their planetary defense system will soon be in place. For now, I have granted the silo to Progenitor Nazrek, who assures me that he will put it to good use...",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }],
+    "Technology: Evocation": [{
+        "order": 1,
+        "headline": "Artificial Evocation",
+        "content": "The Makers have constructed this crude device that simulates the natural process of evocation - using the primal pattern of local wildlife to manifest an organism of pure energy.\n\nNot surprisingly, this requires a great deal of power, and the pathetic machine is unable to maintain a stable projection for long. The Makers and their toys. As I have always said, it is the mind that is our greatest weapon.",
+        "source": "Datacube by Elyona",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Primal Phenomenon",
+        "content": "This region is truly fascinating. The intensity of its natural primal matrices is beyond anything that I’ve ever experienced, allowing me to manifest evocations of unexpected power. \n\nThese intensities also have a tangible impact on the life forms that exist in this forest, often resulting in individuals with drastically different physiologies and biological traits. This particular location seems especially prone to the phenomenon.",
+        "source": "Datacube by Elyona",
+        "sourcetype": "datacube"
+    }],
+    "Technology: Primal Plasma": [{
+        "order": 1,
+        "headline": "Violent Applications",
+        "content": "The incomparable purity of primal plasmas on Nexus creates a number of interesting possibilities.\n\nBy harnessing the power of these often volatile substances, I have created a working prototype of the Plasmatic Cannon.\n\nThe Archon, contrary to his usual inability to see my genius, seemed very interested in the weapon, hinting that there might be a use for something like it in the near future...",
+        "source": "Datacube by Zarkonis",
+        "sourcetype": "datacube"
+    }],
+    "Focus Technology: Air": [{
+        "order": 1,
+        "headline": "Incomparable Power",
+        "content": "The Focus of Air represents one of the Eldan’s greatest technological achievements, its scale and complex ity almost impossible to comprehend.\n\nI was there to witness its sheer power at the genesis of this Project, and it is a sight I will never forget.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }],
+    "Focus Technology: Water": [{
+        "order": 1,
+        "headline": "Beneficial Adaptation",
+        "content": "These large predators have adapted well to the extreme changes in weather caused by the Focus of Water, thriving where other organisms have failed.\n\nThe frozen remains of the giant beast that previously inhabited this cave serve as a poignant reminder that survival is about more than size or strength.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Extreme Concern",
+        "content": "Due to its proximity to the Focus of Water, this region is a study in extremes. Rainstorms are often followed closely by snowfall, with sudden changes in temperature that only the hardiest organisms survive.\n\nMy concerns for the success of the Hydris Protocols are stronger than ever.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Surface Access",
+        "content": "Readings indicate an intricate network of primal water flows just beneath the ice in this region - exacerbating the already turbulent weather caused by the Focus itself.\n\nOne of those flows draws very near to the surface directly beneath this location - one need only to break through a few feet of ice in order to access an almost pure source of the volatile substance.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }],
+    "Primal Energy: Life": [{
+        "order": 1,
+        "headline": "Primal Disruptor",
+        "content": "The Primal Disruptor provides an abundant source of power by transforming elemental life forms into refined loftite crystals.\n\nTheir sacrifice is necessary if we are to advance the great work that we are doing here.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Focused Enhancement",
+        "content": "The black volcanic stone in this region is naturally infused with high levels of primal earth and life, resulting in the formation of these elemental creatures. \n\nI have decided to install a number of primal focusers in this particular location, assuming that it will result in the creation of a larger and more destructive specimen.\n\nPerhaps I will unleash it on the Maker's new augmentation facility to the east.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Geologic Acceleration",
+        "content": "This mineral is unlike anything I have ever encountered. Heavily infused with primal life, it appears to accelerate physiological systems, resulting in enhanced traits like increased stamina and faster reflexes. I must remember this. Such a substance presents… interesting… possibilities.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Totemic Power",
+        "content": "Fascinating. These primitive totemic sculptures are infused with high levels of primal life, providing a natural defense against damage and decay.\n\nIt seems the hulking forest guardians who created them have an instinctive grasp of both infusion and evocation, making them more dangerous - and infinitely more interesting.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }],
+    "Primal Energy: Water": [{
+        "order": 1,
+        "headline": "Explosive Energy",
+        "content": "The geological characteristics of this region are very interesting. Subterranean scans reveal numerous reservoirs of primal water just beneath the surface, often resulting in explosive geysers that burst forth from the ground.\n\nSuch phenomena are to be expected given the inherent instability of the substance - but the Pell, sadly, have begun to view them as something more divine.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Aquatic Infusion",
+        "content": "This is a perfect location for my upcoming experiment. By tapping the massive reservoir of primal water beneath this lake, I hope to weave a being of pure primal energy.\n\nIf successful, this will represent a landmark in the history of my Order and a giant step towards achieving the goals of the Project itself.\n\nI suppose I must mention the technological contribution of the Makers, although I consider it trivial at best.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Biological Agent",
+        "content": "The inherent instability of primal water opens up a number of interesting possibilities. By weaving malignant biological material with the substance, I have been able to create an extremely virulent gaseous agent – one that even in the smallest amount has proven fatal to test subjects. I must be cautious. The opportunity for mayhem among my colleagues often encourages me to ignore protocol.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Primal Infusion",
+        "content": "I have never before directly infused an organism with such high levels of primal energy, and I find the results to be staggering. The test subject has undergone a dramatic physical transformation and now displays previously unrecorded skills in evocation that make it a dangerous creature indeed. This revelation bodes well for the Project’s next phase.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Deadly Reaction",
+        "content": "Again, we are forced to seal away an experiment relating to the manipulation of primal water. I had hoped that this iteration would prove more stable, but I was gravely mistaken.\n\nI can only imagine what horrors befell our Pell servants who were trapped below...",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 6,
+        "headline": "Physiological Amplifier",
+        "content": "Recent experiments with direct infusion of pure primal water into an organism’s bloodstream have revealed an unexpected result.\n\nIn almost every test subject, there were massive physiological changes-including greatly increased muscle mass and enhanced cardiovascular capabilities.\n\nNot surprisingly, neural instability has led to elevated aggression levels.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 7,
+        "headline": "System Failure",
+        "content": "Our initial prototype for harnessing primal water must be counted a stunning failure. Unlike similar efforts with primal air, this device was unable to derive a stable matrix from the substance, resulting in a violent reaction that tore it apart.\n\nLetting off explosive gouts of steam, the remaining pieces slid unceremoniously into the ice.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 8,
+        "headline": "Toxic Result",
+        "content": "We continue to have difficulties manipulating primal water - and our latest experiment has been especially disappointing. The resultant material was so toxic that we were forced to seal off the underground cavern in which the experiment took place.\n\nI only hope that it never finds its way to the surface.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }],
+    "Primal Energy: Earth": [{
+        "order": 1,
+        "headline": "Focused Enhancement",
+        "content": "The black volcanic stone in this region is naturally infused with high levels of primal earth and life, resulting in the formation of these elemental creatures. \n\nI have decided to install a number of primal focusers in this particular location, assuming that it will result in the creation of a larger and more destructive specimen.\n\nPerhaps I will unleash it on the Maker's new augmentation facility to the east.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }],
+    "Primal Energy: Air": [{
+        "order": 1,
+        "headline": "Violent Tempest",
+        "content": "Our research here has been enlightening. By harnessing the power of loftite crystals, this tower has created a violent storm.\n\nThe sheer power unleashed has exceeded our expectations, indicating that we will reach the final stage of the Project.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Volatile Power",
+        "content": "By extracting pure primal air from loftite crystals, the tower below is able to generate wildly different meteorological effects. Currently the machine is generating a storm, but it could just as easily create destructive bolts of lightning, or a whirlwind of such power it would tear this facility apart.\n\nWhat a sight that would make...",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Crystalline Matrix",
+        "content": "These loftite crystals are fascinating. I have never before encountered a substance so purely infused with primal air - resulting in an extraordinary localized reduction in the force of gravity.\n\nIt seems the beginning of our little \"science project\" can be counted a success.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Uncertain Trust",
+        "content": "Aviel has asked me to construct a number of power converters for what she calls her \"secret little project\" inside the nearby caves. I generally try to avoid the kind of trouble that comes with the Weavers, and especially Aviel, but cooperation and collaboration among the Orders will be vital if we are to achieve our great work on Nexus.\n\nI only hope she does not betray my trust.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Uncontrolled Energies",
+        "content": "Air has always been my favorite of all the primal powers. It is dynamic, wild, and inherently resistant to control.\n\nI visit this region often, drawn by the powerful storms that often surround the Focus of Air. It serves as a useful reminder that there are still many things beyond our control...",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 6,
+        "headline": "Arboreal Ascension",
+        "content": "These trees are fascinating. My analysis indicates that they are infused with extremely high levels of primal air resulting in their elevated status.\n\nCurious... the existence of such a life form indicates that the latter phases of the Project might indeed be attainable.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }],
+    "Technology: Annihilator Construction": [{
+        "order": 1,
+        "headline": "Project Security",
+        "content": "The importance of our work requires that we have extraordinary security, and this Annihilator is an impressive facet of a nearly perfect system.\n\nWe must ensure that nothing threatens the success of the Project, whether from outside the planet, or from within...",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Lethal Construct",
+        "content": "The Order of the Makers has designed a planet-wide defense system to ensure the ongoing security of the Project, and this Annihilator construct is one if its most impressive manifestations.\n\nThe sheer destructive power of this machine is extraordinary. Personally, I hope that a situation arises that would allow me to observe its capabilities.",
+        "source": "Datacube by Zarkonis",
+        "sourcetype": "datacube"
+    }],
+    "Technology: Nanites": [{
+        "order": 1,
+        "headline": "Skeletal Catalyst",
+        "content": "Our experiments here can be counted a success. It appears that the omni-plasmic nanites are sufficiently intelligent to reanimate and enhance the skeletal remains of long-dead organisms.\n\nAs expected, these creatures are significantly less intelligent than their living counterparts, but they are still deadly... and pleasantly macabre.",
+        "source": "Datacube by Zarkonis",
+        "sourcetype": "datacube"
+    }],
+    "Species: The Skeech": [{
+        "order": 1,
+        "headline": "Plasmic Mutations",
+        "content": "The spread of Ohmna’s little Skeech across the planet is generally infuriating, but I must admit that their latest... evolution... has me intrigued.\n\nIt seems their shamans have developed the ability to evoke explosive plasmic mutations, using the ground-up bones of sacrificial victims. Now that is the kind of pet that I could appreciate!",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Gender Enhancement",
+        "content": "Besides being an obvious breach of protocol, Ohmna’s little Skeech are by far the most obnoxious organisms I have ever before encountered.\n\nI believe I will make enhancements to the females, serving as a poignant reminder for Ohmna to avoid such infractions in the future.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }],
+    "Species: The Pell": [{
+        "order": 1,
+        "headline": "Religious Devolution",
+        "content": "I have read the reports concerning the Pell’s recent behavioral transformation - but I had not realized the true impact of the changes until I saw this building that they recently constructed without our knowledge.\n\nI can only describe it as some kind of religious temple, devoted to some undefined aquatic deity that a number of them have begun to worship.\n\nI have been assured that this does not represent a threat to the success of the Project, but I personally find their strange devolution a point of concern.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Unexpected Aberration",
+        "content": "The Pell have begun to display... irregularities, no doubt caused by prolonged exposure during the Project’s first phase.\n\nCertain individuals are now molecularly attuned to specific primal energies, resulting in behavioral aberrations not unlike religious fervor.\n\nAlthough they are still very capable servants, I fear that they have undergone an irrevocable transformation.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Primal Attunements",
+        "content": "Due to their role in our experiments here on Nexus, the Pell seem to have developed attunements and sensitivities to particular primal powers - and it appears as if these traits are being passed from one generation to the next. It will be interesting to see how this situation develops...",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Unnatural Interest",
+        "content": "The Pell seem to have taken a keen interest in the outcome of the upcoming experiment, one that sounds less like science and more like religious fervor.\n\nI fear that we have done our faithful servants irreparable harm in our experiments here. I can only hope that we achieve success...",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Inevitable Decline",
+        "content": "The Pell’s attunements to particular primal energies are becoming more pronounced as the years pass, and those attuned to primal water, expectedly, are the most unstable and impressionable.\n\nAlthough they continue to be faithful and competent servants, I fear they face a future of slow and inevitable decline.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }],
+    "Species: The Dreg": [{
+        "order": 1,
+        "headline": "Humanoid Template",
+        "content": "In order to achieve the goals of the Project, I have created a custom humanoid template to use for future designs. This work is extremely complex, as I am precisely engineering every biological system of the template instead of manipulating those from existing organisms.\n\nNature rarely provides the perfection that my work on the Project will require.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Failed Experiments",
+        "content": "My work within the exo-lab has been progressing well, but any experiments are bound to produce unwanted results. Instead of wasting power on biological disposal, I have merely discarded the failed experimental organisms into the wild.\n\nI have no doubt that the inherent imperfections of these Dregs will result in their demise.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Piteous Existence",
+        "content": "Much to my surprise, I recently discovered this tribe of humanoids living upon these arid wastes.\n\nAn analysis of their physiology shows that they share numerous traits with Nazrek’s humanoid template - although high levels of biological mutation within the group would seem to indicate that these individuals are descended from early, failed prototypes. I find them... piteous, in a way.\n\nPrimitive, savage, and brutal, these Dregs have never known anything but rejection and pain.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }],
+    "Species: The Osun (The OS-1 Experiment)": [{
+        "order": 1,
+        "headline": "Rapid Development",
+        "content": "I am very pleased with the status of the OS-1 experiment.\n\nThe rapid development of their civilization is a testament to their strength and intelligence, although even I must admit that they are progressing at an alarming rate. Although they both fear and revere us, we must be careful to maintain control.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Intimidating Construction",
+        "content": "The OS-1’s engineering skills are formidable. Every aspect of their architecture is intimidating, conveying their inherent need to conquer and subjugate.\n\nIn time, they will be an unstoppable military juggernaut. I would not relish the thought of being their enemy.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Formidable Construction",
+        "content": "The city of Kel Voreth is perhaps the most impressive example of architecture and engineering that the OS-1s have ever produced.\n\nSince their creation, they have made rapid technological advancements that exceed even our most conservative estimates. Soon they will be an unstoppable military force.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Design Disturbance",
+        "content": "The Makers continued efforts to perfect this augmentation technology is disturbing. As if their tiny machines could possibly be an improvement on focused biological design.\n\nPerhaps they should visit the OS-1 city to the south. Could their cybernetic monstrosities ever construct such an impressive monument?",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Undeniable Foreboding",
+        "content": "I have completed my survey of the OS-1’s city. Although I cannot deny their formidableness, there is an oppressive weight to their architecture which makes it difficult to endure for long.\n\nSometimes I fear that the Progenitors may have been too successful in their creation. Standing in the shadows of these massive walls, I feel a sense of undeniable foreboding.",
+        "source": "Datacube by Elyona",
+        "sourcetype": "datacube"
+    }, {
+        "order": 6,
+        "headline": "Parameters Exceeded",
+        "content": "The development of the OS-1 has been a very impressive achievement for the Progenitors, and the Watchers continue to be impressed by their adherence to protocol in their training.\n\nBut despite these accomplishments, I still have concerns about the speed of their advancement. We have already exceeded the established parameters for physical and psychological control.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 7,
+        "headline": "Ruthless Games",
+        "content": "I often come here to observe the OS-1s and their ruthless games, facing off against one another to test their skills and savagery.\n\nIt is quite a spectacle. The roaring crowds. The blood. The intense drama of combatants fighting to the death.\n\nIt is quite relaxing, really. I cannot think of anything here on Nexus that I enjoy more.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 8,
+        "headline": "Deity Complex",
+        "content": "There is an aspect of our work with the OS-1 that disturbs me. For reasons of control, we have decided to approach our creations as omniscient gods wielding powers beyond comprehension.\n\nIt is my fear that there are those among us who actually believe this ruse and that such reckless thoughts will lead to our destruction...",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 9,
+        "headline": "Critical Juncture",
+        "content": "Although the OS-1 experiment has been an indisputable success, it is the opinion of the Watchers that the situation is disturbingly volatile.\n\nDespite our efforts to present ourselves as powerful deities to the OS-1s, they have displayed increasing levels of independence and hostility.\n\nCoupled with their exponential advancements in technology, I fear that we are quickly approaching a climactic event.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 10,
+        "headline": "Dangerous Advancement",
+        "content": "I have heard rumblings among the OS-1 that they have discovered the secret to forging exanite, and given their recent technological advancements it just might be true. We must control this situation immediately!\n\nIf they indeed can manipulate the powerful substance, and if they were to gain access to our facility below, they might create weapons and armor that would make them extremely dangerous and impossible to control.\n\nThis must never be allowed to happen.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 11,
+        "headline": "Intense Aggression",
+        "content": "Having repeatedly heard their designation, the OS-1s have now begun to call themselves the 'Osun'.\n\nThey have also begun to exhibit increased brutality and aggression as a result of their training and development. Although these traits are essential to their design, I fear that these tendencies could become unmanageable in the future.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 12,
+        "headline": "Bestial Transformation",
+        "content": "Without any guidance from the Orders, the OS-1s - who now have taken to calling themselves the Osun - have begun to transform local predators into powerful, armored beasts of war.\n\nAlthough crude and incredibly painful for the creatures, the process is undeniably effective.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 13,
+        "headline": "Forged Inferno",
+        "content": "These forges are astonishing, achieving levels of heat that rival even some of our own advanced technological equivalents. Because of this, Osun forgemasters are able to create weapons and armor of unexpected complexity and power.\n\nI find this very disturbing, but my concerns to this point have fallen on deaf ears.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 14,
+        "headline": "Liquid Subjugation",
+        "content": "The Osun females display impressive skills with infusion and evocation that have evolved far beyond the simple lessons that I have shared with them.\n\nOne individual created a powerful elixir that allowed her to subjugate inferiors, making them into mindless slaves. Our children are learning far more from us than we expected.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 15,
+        "headline": "Strange Elixir",
+        "content": "The Osun's so-called Darkwitches have continued to perfect their arcane disciplines of subjugation, creating an elixir known as \"soulrot\" to enslave their thralls. After studying this mixture closely, I must admit that it reflects a dangerous level of potency that should be impossible to produce for a race so young.\n\nI might pity their victims if I wasn't so thoroughly impressed.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 16,
+        "headline": "Brutal History",
+        "content": "In a very short time, these Osun have developed a rich cultural mythology based on significant individuals from their short and colorful history.\n\nIt is of no surprise that all of them displayed an innate viciousness and brutality which in most cases led to a violent demise.\n\nSuch are the heroes that the Osun choose to venerate.",
+        "source": "Datacube by Elyona",
+        "sourcetype": "datacube"
+    }],
+    "Species: The Falkrin (The AV-3 Experiment)": [{
+        "order": 1,
+        "headline": "Unexpected Survival",
+        "content": "I am very surprised that AV-3 has thrived on Nexus, especially given the fact that we released them so quickly into the wild. Most test organisms are not so resilient.\n\nThe Weavers would say that primal air gives them strength and power, but I personally feel that it is a testament to my own elegant design.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Female Leadership",
+        "content": "I find it interesting that the Falkrin females have been chosen as the voice of their new god, especially given how dominant the males were designed.\n\nThat being said, the females are far more intelligent and inherently skilled than their male counterparts. This, of course, is not surprising at all.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Misguided Concern",
+        "content": "These avian beasts and their pathetic cultural charade are a growing threat to the Project’s goals in this region.\n\nThey should have been destroyed once they had served their purpose. I begin to tire of Ohmna’s misguided concern for these inferior creations.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Discarded Prototype",
+        "content": "Now this is an unexpected surprise. These early AV-3 prototypes have survived, and now call themselves the \"Murgh\".\n\nMy records indicate they were scheduled for termination based on defects in their design, but it looks as if they escaped into the wild and are now subservient to the Falkrin.\n\nPerhaps we have less control here than we truly believe.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Envious Illusion",
+        "content": "Ah, these Falkrin! My dear AV-3s! Such things they have achieved in the centuries since I first engineered them.\n\nWho would have guessed that they would eventually construct such impressive cities, or would someday worship a winged god created by our own hands? Do they understand what has actually taken place here? And what would they think if they knew what was soon to come?\n\nI envy them. They still exist under the comfortable illusion that their lives represent more than a means to an end.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }],
+    "Species: The Moodies": [{
+        "order": 1,
+        "headline": "Future Improvement",
+        "content": "These small bipeds are little more than an annoyance. Their creation of ritual masks - which seem to indicate both mood and social structure - is of little interest to me.\n\nBut perhaps there are some improvements that I can make upon their base design.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Protocol Breach",
+        "content": "Despite the objections of his Order, Progenitor Nazrek has made a number of enhancements to these so-called Moodies.\n\nCertain individuals now display an inherent skill in evocation, allowing them to reanimate their dead. Nazrek’s questionable choices will be noted.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Necromantic Modification",
+        "content": "These Moodies have become so much more interesting since I re-engineered them. With their new skills in necromantic evocation, they are able to reanimate their dead, as well as the corpses of local creatures.\n\nSome of my colleagues consider this modification both grisly and unnecessary. Perhaps I will improve upon them next.",
+        "source": "Datacube  by Nazrek",
+        "sourcetype": "datacube"
+    }],
+    "Creatures: The Girrok": [{
+        "order": 1,
+        "headline": "Beneficial Adaptation",
+        "content": "These large predators have adapted well to the extreme changes in weather caused by the Focus of Water, thriving where other organisms have failed.\n\nThe frozen remains of the giant beast that previously inhabited this cave serve as a poignant reminder that survival is about more than size or strength.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }],
+    "Creatures: The Xenobites": [{
+        "order": 1,
+        "headline": "Decelerated Gestation",
+        "content": "These Xenobites are one of my most elegant creations. They can survive in decelerated gestation for hundreds of years, only emerging from their eggs if their safety is threatened.\n\nMy little pet Skeech seems fascinated with them, and I often find her watching over the egg clusters from afar.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }],
+    "Creatures: The Malverine": [{
+        "order": 1,
+        "headline": "Feral Evolution",
+        "content": "These bipedal predators are particularly nasty. They are highly territorial, unnaturally aggressive, and display coordinated attack behaviors as they stalk their prey.\n\nAlthough I generally consider nature to be little more than a blind invalid playing games of chance, I must admit that these creatures are an inspired product of evolution. I must remember them for my future work.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Unexpected Violence",
+        "content": "I continue to be fascinated by these feral humanoid organisms, so much so that I have decided to genetically modify the aggressive tendencies and intellectual capacity of their alpha male.\n\nI assume that this trait will be passed down to future generations, making this group significantly more dangerous to anyone who might happen upon them.\n\nI know the Watchers will not approve, but the possibility of unexpected violence tends to make me reckless.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }],
+    "Creatures: The Terminites": [{
+        "order": 1,
+        "headline": "Potential Infestation",
+        "content": "A voracious appetite and accelerated reproductive cycle makes these insects a dangerous threat to any ecosystem.\n\nI have been tempted to breach protocol and unleash them myself, just to see the resultant chaos - but the danger that such an infestation presents outweighs even my own personal desires.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Fail-Safe Mechanism",
+        "content": "Given the danger posed by a possible surface infestation of these terminites, I have created a fail-safe mechanism to immolate the queen – violently and decisively interrupting the central hive’s reproductive cycle. I sincerely hope I have reason to test the system’s capability.",
+        "source": "Datacube by Zarkonis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Noxious Colony",
+        "content": "As I feared, a number of subjects from the terminite experiment have escaped and established a colony directly beneath this power converter. The noxious gasses emitted from this hive are both poisonous and corrosive, rendering the unit unusable.\n\nAlthough trivial, this lapse in security and procedure is part of an alarming, continuing trend among the Orders.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }],
+    "Creatures: The Buzzbings": [{
+        "order": 1,
+        "headline": "Unchecked Infestation",
+        "content": "Without any true natural predators, these insects are beginning to spread rapidly throughout this region, and their massive hives serve as a magnificent example of their industriousness and social coordination.\n\nTheir queens are equally impressive. I have witnessed more than one creature fall victim to their venomous sting.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Insect Aggression",
+        "content": "I have observed these flying insects for quite some time, and I have been very impressed with their intelligence and advanced communal behaviors.\n\nThey are also unbelievably aggressive, and none more than their formidable queen. I have seen more than one unsuspecting predator fall prey to her deadly sting. So exhilarating!",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }],
+    "Creatures: The Stemdragons": [{
+        "order": 2,
+        "headline": "Violent Botany",
+        "content": "I am very satisfied with the outcome of my most recent creation - a plant-animal hybrid with highly specialized environmental camouflage. The beast lures its prey by appearing as a flowering plant, and then bursts from the ground to viciously dispatch it.\n\nAlthough this creature has little relevance to the greater project here on Nexus, I often come here to admire the elegant brutality of its design.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }],
+    "Creatures: The Yeti": [{
+        "order": 1,
+        "headline": "Biological Mutation",
+        "content": "Each generation of yeti alphas that have lived in this cave have displayed drastic physical changes brought about by prolonged exposure to the loftite crystals located nearby.\n\nInteresting. I wonder what a more focused, controlled experiment might further reveal about this phenomenon...",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }],
+    "Creatures: The Giants": [{
+        "order": 1,
+        "headline": "Forest Defenders",
+        "content": "These large hybrid humanoids have evolved an extra-sensory perception of the forest’s collective life force, resulting in altruistic behaviors focused on protecting it from harm.\n\nTheir size and strength, as well as their aggression when provoked, make them formidable guardians.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }],
+    "Primal Elemental: Life": [{
+        "order": 1,
+        "headline": "Diverse Evolution",
+        "content": "I always knew that we would observe indigenous life here, but I continue to be shocked at its variety. Take these rock creatures. Fascinating!\n\nInert chunks of stone infused with primal life, displaying a simple intelligence. This place is unique in all of the universe!",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }],
+    "Project: The Elderoot Initiative": [{
+        "order": 1,
+        "headline": "Collective Life Force",
+        "content": "What a discovery! The beauty and complexity of this tree’s interior is amazing, almost as if the tree itself created such a space for others to explore and experience.\n\nIt would not surprise me if this tree was blessed with a form of higher intelligence, perhaps connected to the planet’s collective life force in a way that we do not yet completely understand.\n\nNexus continues to inspire me.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Botanical Sentience",
+        "content": "I am very pleased with the progress that we have made on the Elderoot Initiative. It has long been known to us that plants of a certain age and size develop a primitive awareness of their surroundings, but we have amplified that awareness exponentially.\n\nPut simply, we are creating a sentient tree. What secrets will it reveal when at last it speaks?",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Energetic Organism",
+        "content": "Creating sentience from primal life is an important aspect of the Elderoot Initiative.\n\nBy constructing these primal infusers, I have been able to create a stable physiological matrix around an advanced power core, resulting in an organism that is created from pure energy.\n\nThe success of this experiment bodes well for the larger goals of the Nexus Project.",
+        "source": "Datacube by Zarkonis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Parasitic Threat",
+        "content": "My exploration of this cave system has revealed a hive of voracious subterranean parasites, located in close proximity to the primary root system of the Elderoot Initiative’s test subject.\n\nAlthough they do not currently pose a threat, in time it could become a very serious issue. We must carefully monitor these pests and exterminate them, if necessary.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Unexpected Mutation",
+        "content": "Although the Elderoot Initiative should be counted a resounding success, there have been unforeseen side effects. A large amount of excess primal energy is radiating from some of the tree's roots, resulting in small mutations of the subterranean wildlife. Over time, this situation could become increasingly worse.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }],
+    "Evolution: Deradune": [{
+        "order": 1,
+        "headline": "Tragic Monument",
+        "content": "These massive skeletons belong to creatures that are no longer found on the planet’s surface. Undoubtedly, they existed during the Project's first phase.\n\nAlthough their rise and subsequent extinction were inevitable, I still find it tragic that such magnificent beasts were not able to survive.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }],
+    "Evolution: Celestion": [{
+        "order": 1,
+        "headline": "Fascinating Flora",
+        "content": "These trees display a measurable proto-sentience, almost an awareness of the energetic fields of primal life inherent to the forest. If another plant or organism in this region feels pain, these trees do also.\n\nThe existence of such advanced sensitivities in plant life is unprecedented. This planet is indeed the perfect place to complete our great work.",
+        "source": "Datacube by Elyona",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Pure Source",
+        "content": "My readings indicated a pure source of primal life within this forest, leading to the tree that now floats above me. What a fascinating specimen!\n\nIn all of my long life, I have never observed an organism so purely infused with primal power. I must take a closer look.\n\nWhat further secrets will it reveal?",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Savage Beauty",
+        "content": "This forest is truly impressive. I must admit that even with the powerful tools at my command, it would be difficult to create such a beautiful environment. That being said, one must not forget the dangers that exist here: the many vicious creatures on the hunt for prey. Being enthralled by such savage beauty could surely lead to disaster.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }],
+    "Evolution: Whitevale": [{
+        "order": 1,
+        "headline": "Frozen Death",
+        "content": "These trees have had a difficult time withstanding the extreme cold that plagues this region.\n\nI find it tragic, as many of these trees are more than a thousand years old-but the rigors of the Project do not allow me time to intervene. I can only hope they will find a way to survive.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }]
+}

@@ -1,0 +1,41 @@
+@import './base';
+
+.wrapper {
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 0 25px;
+  width: 1280px;
+  background: rgba(5, 11, 25, .7);
+  border-radius: 0 0 5px 5px;
+  @include boxshadow;
+  border-top: 0;
+}
+
+.pageFooter {
+  margin: 0;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.copyright, .disclaimer {
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.pageFooterDivider {
+  border: none;
+  border-bottom: 1px dotted $border-color;
+}
+
+@media (max-width: 601px) {
+  .disclaimer, .pageFooterDivider {
+    display: none;
+  }
+}
+
+@media all
+and (max-width: 1300px) { 
+    .wrapper {
+        width: 100%;
+    }
+}

@@ -1,0 +1,38 @@
+[{
+	"label": "The Torine Sisterhood",
+	"entries": [{
+        "order": 1,
+        "headline": "The Laws of the Sword",
+        "content": "The Eldan and their infernal machines. Why I agreed to the Pell's request to record my thoughts on these datacubes, I will never know. Still, I suppose that there is some value in preserving the history of the Sisterhood here in our most sacred sanctuary. I will do my best not to lose patience.\n\nFor almost two-thousand years, I, Tresayne Toria, have lived upon this planet. Brought here by the Eldan, and preserved by the power of the Focus of Life, these jungles have become my home.\n\nBy the laws of the sword did I live my life as a Cassian Swordmaiden, and it is by those same laws that my Torine Sisters have defended the Goddess Vitara since I swore my life to her long ago.\n\nThis sanctuary is holy ground to the Sisterhood, and serves to remind us of our eternal duty.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Kingdom of the Goddess of Life",
+        "content": "The duty of the Torine Sisterhood is two-fold.\n\nOne, to protect the Goddess Vitara with our swords and our lives.\n\nAnd two, defend the kingdom of the Goddess against those who would do it harm. What many do not understand is that these two are inextricably intertwined, that the Goddess gains strength from the lifeforce of her kingdom, and her kingdom cannot thrive if the Goddess herself is weak.\n\nThat is why we must not allow anything to desecrate this planet. That is why the blades of the Sisterhood must never fail.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "A Place Where No Fire Shall Burn",
+        "content": "The Temple of Vitara. Of all the places in the sanctuary, this is perhaps the most sacred. It is here that Life-Callers take their vows before the face of the goddess, swearing to use their ancient disciplines to protect and nurture her kingdom.\n\nBecause of this, no open fire has ever burned within the walls of the temple, as fire is an uncontrollable force which maims and consumes life. Any who would bring flame to this place - and especially one of the Sisterhood - commits an act of unspeakable heresy.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    },{
+        "order": 4,
+        "headline": "The Edge Between Strength and Oblivion",
+        "content": "Here, in the sanctuary’s inner sanctum, lies the very sword that I plunged into Vitara’s eternal heart so long ago. I was young, and foolish. I did not know the true power of the beast against which I had set my blade. Only when she struck me down, and then pulled me from the realms of death did I truly understand.\n\nI swore then to serve Vitara for the rest of my days, and we of the Sisterhood have done so. But although this blade is a symbol of our commitment to the Goddess, it is not the sword that will carry us.\n\nIt is deep within ourselves where true strength can be found. If the spirit is weak, then we should expect nothing more than oblivion.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Servants of the Grove Guardian",
+        "content": "These Pell have served us faithfully since the time that I arrived here, even after my son Dominus left for Cassus to rule the Dominion as its first emperor.\n\nThey are very simple creatures, yet gifted with an unusual intelligence. It is easy to see why the Eldan used them as servants in their experiments here.\n\nThis particular tribe serves the Grove Guardian Ondu, a powerful elemental creature who has lived here in these jungles for thousands of years. Ondu serves Vitara in his own primitive way, and the Sisterhood welcomes his presence here in the sanctuary. For my part, I sleep better knowing he watches over it.\n\nI dare not think what might happen if something were to befall him.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}]
+
+/*
+
+*/

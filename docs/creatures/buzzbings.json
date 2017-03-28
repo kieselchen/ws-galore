@@ -1,0 +1,16 @@
+[{
+    "label": "Notes of the Eldan",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Unchecked Infestation",
+        "content": "Without any true natural predators, these insects are beginning to spread rapidly throughout this region, and their massive hives serve as a magnificent example of their industriousness and social coordination.\n\nTheir queens are equally impressive. I have witnessed more than one creature fall victim to their venomous sting.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Insect Aggression",
+        "content": "I have observed these flying insects for quite some time, and I have been very impressed with their intelligence and advanced communal behaviors.\n\nThey are also unbelievably aggressive, and none more than their formidable queen. I have seen more than one unsuspecting predator fall prey to her deadly sting. So exhilarating!",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }]
+}]

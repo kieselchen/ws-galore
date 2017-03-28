@@ -1,0 +1,58 @@
+[{
+    "label": "Focus Technology",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 0: Focused Technology",
+        "content": "I have recently finished the design for the six Primal Focuses that will be located at various locations across planet Nexus.\n\nThese will be essential to completing the first phase of the Project, but I foresee other, more interesting applications for them as well.\n\nI am not one to sing my own praises, but these devices are some of the most advanced pieces of technology that the Eldan have ever created.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Primal Energy",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Primal Disruptor",
+        "content": "The Primal Disruptor provides an abundant source of power by transforming elemental life forms into refined loftite crystals.\n\nTheir sacrifice is necessary if we are to advance the great work that we are doing here.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Focused Enhancement",
+        "content": "The black volcanic stone in this region is naturally infused with high levels of primal earth and life, resulting in the formation of these elemental creatures. \n\nI have decided to install a number of primal focusers in this particular location, assuming that it will result in the creation of a larger and more destructive specimen.\n\nPerhaps I will unleash it on the Maker's new augmentation facility to the east.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Phase Anomaly",
+        "content": "These crystals contain almost pure concentrations of primal life - an interesting anomaly that resulted from the first phase of the Project.\n\nGiven sufficient inherent knowledge and skill, an individual could use these crystals to transform this environment - similar to the technological process employed by our terraformers. Of course, there are currently no such individuals on Nexus beyond ourselves.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Phase 1: Geologic Acceleration",
+        "content": "This mineral is unlike anything I have ever encountered. Heavily infused with primal life, it appears to accelerate physiological systems, resulting in enhanced traits like increased stamina and faster reflexes. I must remember this. Such a substance presents… interesting… possibilities.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Phase 1: Totemic Power",
+        "content": "Fascinating. These primitive totemic sculptures are infused with high levels of primal life, providing a natural defense against damage and decay.\n\nIt seems the hulking forest guardians who created them have an instinctive grasp of both infusion and evocation, making them more dangerous - and infinitely more interesting.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }]
+}, {}, {}, {}, {}, {
+    "label": "Elementals",
+    "entries": [{
+        "order": 2,
+        "headline": "Phase 1: Diverse Evolution",
+        "content": "I always knew that we would observe indigenous life here, but I continue to be shocked at its variety. Take these rock creatures. Fascinating!\n\nInert chunks of stone infused with primal life, displaying a simple intelligence. This place is unique in all of the universe!",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "TODO Elemental Stabilization",
+        "content": "Due to the sheer volume and intensity of the power that is being channeled through this cavern, I have witnessed the spontaneous instantiation of elemental life forms on a number of occasions.\n\nAlthough these rarely live for long, it is feasible that devices could be made to stabilize them. I shall speak with the Pell about my theory, and see if they can aid me in constructing such a device.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }]
+}]

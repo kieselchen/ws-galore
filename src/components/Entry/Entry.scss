@@ -1,0 +1,159 @@
+@import './base';
+
+.entry {
+    margin: 0 10px 10px 0;
+    padding: 10px;
+    float: left;
+    background: rgba(0, 0, 0, .5);
+    border: 1px solid $border-color;
+    border-radius: 5px;
+    font-family: 'Open Sans';
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    width: 600px;
+    height: 419px;
+    list-style: none;
+}
+
+.entryHeader {
+    letter-spacing: 2px;
+    line-height: 24px;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 0 5px 0 0;
+}
+
+.entryHeader:hover {
+
+}
+
+.entryIcon {
+    width: 24px;
+    height: 24px;
+    margin: 0 10px 10px 0;
+    float: left;
+}
+
+.entryHeadline {
+    font-family: inherit;
+    font-size: 14px;
+    font-weight: 100;
+    margin-top: 0;
+}
+
+.entryFooter {
+    font-size: 10px;
+    text-align: right;
+}
+
+.entryFooter a {
+    text-decoration: none;
+}
+
+.entryFooter a:hover {
+    text-decoration: none;
+}
+
+$oneItemSize: 100%;
+$twoItemSize: 49%;
+$threeItemSize: 32.6%;
+
+@mixin lastItem {
+    &:nth-last-child(1) {
+        margin-right: 0;
+    }
+}
+
+@mixin onlyOneItem {
+    li:first-child:nth-last-child(1),
+    li:first-child:nth-last-child(1) ~ li {
+       @include lastItem;
+
+        width: $oneItemSize;
+        height: $oneItemSize;
+    }
+}
+
+@mixin onlyTwoItems {
+    li:first-child:nth-last-child(2),
+    li:first-child:nth-last-child(2) ~ li {
+       @include lastItem;
+
+        width: $twoItemSize;
+        height: $twoItemSize;
+    }
+}
+
+@mixin onlyThreeItems {
+    li:first-child:nth-last-child(3),
+    li:first-child:nth-last-child(3) ~ li {
+        @include lastItem;
+
+        width: $threeItemSize;
+        height: $threeItemSize;
+    }
+}
+
+/* size: tiny */
+@media all
+and (min-width: 0)
+and (max-width: 604px) {
+    .entry {
+        width: $oneItemSize;
+        height: $oneItemSize;
+        margin-right: 0;
+    }
+}
+
+/* size: small */
+@media all
+and (min-width: 605px)
+and (max-width: 1033px)  {
+    .entry {
+        width: $twoItemSize;
+        height: $twoItemSize;
+
+        &:nth-child(2n) {
+            margin-right: 0;
+        }
+
+        &:nth-child(2n+1){
+            clear:left
+        }
+
+        &:last-child {
+            clear: none;
+        }
+    }
+
+    @include onlyOneItem;
+}
+
+/* size: medium */
+@media all
+and (min-width: 1034px) {
+    .entry {
+        width: $threeItemSize;
+        height: $threeItemSize;
+
+        /* every third item */
+        &:nth-child(3n) {
+            margin-right: 0;
+        }
+
+        &:nth-child(3n+1){
+            clear:left
+        }
+
+        &:nth-child(4n) {
+            margin-right: 0 10px;
+        }
+    }
+
+    @include onlyOneItem;
+    @include onlyTwoItems;
+    @include onlyThreeItems;
+}

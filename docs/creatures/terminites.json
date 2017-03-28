@@ -1,0 +1,22 @@
+[{
+    "label": "Notes of the Eldan",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Potential Infestation",
+        "content": "A voracious appetite and accelerated reproductive cycle makes these insects a dangerous threat to any ecosystem.\n\nI have been tempted to breach protocol and unleash them myself, just to see the resultant chaos - but the danger that such an infestation presents outweighs even my own personal desires.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Fail-Safe Mechanism",
+        "content": "Given the danger posed by a possible surface infestation of these terminites, I have created a fail-safe mechanism to immolate the queen – violently and decisively interrupting the central hive’s reproductive cycle. I sincerely hope I have reason to test the system’s capability.",
+        "source": "Datacube by - Zarkonis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Noxious Colony",
+        "content": "As I feared, a number of subjects from the terminite experiment have escaped and established a colony directly beneath this power converter. The noxious gasses emitted from this hive are both poisonous and corrosive, rendering the unit unusable.\n\nAlthough trivial, this lapse in security and procedure is part of an alarming, continuing trend among the Orders.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }]
+}]

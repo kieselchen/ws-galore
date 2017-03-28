@@ -1,0 +1,154 @@
+[{
+    "label": "Technology: Terraforming",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 0: Manifested Mass",
+        "content": "This silo contains the first of our large-scale terraforming experiments, and I am extremely satisfied with our initial results. The device channels pure primal energies, creating an elemental matrix upon which mass is defined and then manifested.\n\nAlthough I generally avoid grandiose statements, in this case I will make an exception: we have indeed achieved the power of creation.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Environmental Transformation",
+        "content": "This terraformer is a powerful device, allowing those of my order to dynamically change the physical properties of local terrain. At the same time, it initiates the hyper-accelerated evolution of local creatures, allowing them to better survive in the new environment. Such power is liberating... and dangerous.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Future Consequences",
+        "content": "I have completed my survey of this region, and I am as impressed with its geologic diversity as I have been with the rest of this planet.\n\nIt is difficult to imagine a more suitable location to embark on the Project, although I continue to harbor concerns about the consequences if indeed we are successful. Not surprisingly, my opinions have not been popular among my colleagues.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Phase 1: Geological Strata",
+        "content": "The sheer geological variety on the surface of the planet is awe-inspiring, a testament to the titanic forces unleashed during its formation. The more time I spend here, the harder it is to imagine the planet’s fate once we have achieved the ultimate goals of the Project.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Primal Energy: Water",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Explosive Energy",
+        "content": "The geological characteristics of this region are very interesting. Subterranean scans reveal numerous reservoirs of primal water just beneath the surface, often resulting in explosive geysers that burst forth from the ground.\n\nSuch phenomena are to be expected given the inherent instability of the substance - but the Pell, sadly, have begun to view them as something more divine.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Surface Access",
+        "content": "Readings indicate an intricate network of primal water flows just beneath the ice in this region - exacerbating the already turbulent weather caused by the Focus itself.\n\nOne of those flows draws very near to the surface directly beneath this location - one need only to break through a few feet of ice in order to access an almost pure source of the volatile substance.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Primal Energy: Life",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Phase Anomaly",
+        "content": "These crystals contain almost pure concentrations of primal life - an interesting anomaly that resulted from the first phase of the Project.\n\nGiven sufficient inherent knowledge and skill, an individual could use these crystals to transform this environment - similar to the technological process employed by our terraformers. Of course, there are currently no such individuals on Nexus beyond ourselves.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Species: The Osun",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Deity Complex",
+        "content": "There is an aspect of our work with the OS-1 that disturbs me. For reasons of control, we have decided to approach our creations as omniscient gods wielding powers beyond comprehension.\n\nIt is my fear that there are those among us who actually believe this ruse and that such reckless thoughts will lead to our destruction...",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Dangerous Advancement",
+        "content": "I have heard rumblings among the OS-1 that they have discovered the secret to forging exanite, and given their recent technological advancements it just might be true. We must control this situation immediately!\n\nIf they indeed can manipulate the powerful substance, and if they were to gain access to our facility below, they might create weapons and armor that would make them extremely dangerous and impossible to control. This must never be allowed to happen.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Forged Inferno",
+        "content": "These forges are astonishing, achieving levels of heat that rival even some of our own advanced technological equivalents. Because of this, Osun forgemasters are able to create weapons and armor of unexpected complexity and power.\n\nI find this very disturbing, but my concerns to this point have fallen on deaf ears.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Evolution: Celestion",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Savage Beauty",
+        "content": "This forest is truly impressive. I must admit that even with the powerful tools at my command, it would be difficult to create such a beautiful environment. That being said, one must not forget the dangers that exist here: the many vicious creatures on the hunt for prey. Being enthralled by such savage beauty could surely lead to disaster.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Projects: The Osiric Protocols",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 2: Alpha Phase",
+        "content": "This canyon is a perfect place to achieve the first phase of the Osiric Protocols, near enough to the Focus of Air that we can draw latent primal energy from the surrounding atmosphere.\n\nOur servants, the Pell, have been very helpful in constructing the system, continuing to prove their usefulness to the Project.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Projects: The Hydris Protocols",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 2: Dangerous Opinions",
+        "content": "Hydris, Goddess of Water. Am I the only one amongst us who finds this troubling? Naming our creations after ancient Eldan gods?\n\nWhat began as our greatest work of science is slowly becoming something more insidious and dangerous.\n\nI must be more cautious. I have heard whispers about my 'obstructive opinions'”', and frankly, I begin to fear for my life.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "label": "Projects: The Vitara Protocols",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 3: Liquid Immortality",
+            "content": "I have analyzed the pool of water directly beneath the Focus of Life, and the results are truly staggering. It appears as if the liquid has been purely infused with the intense primal energies that emanate from the Focus itself, resulting in a symbiotic elemental matrix that even the Weavers do not fully understand.\n\nAnd if an organism were to drink from these waters? It might indeed grant them eternal life.\n\nI often find Nuriam sitting quietly beside the pool’s tranquil waters, no doubt preparing for her imminent transformation as the conclusion of the Vitara Protocols approaches.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {
+        "label": "Creatures: The Skeech",
+        "entries": [{
+            "order": 1,
+            "headline": "TODO Organic Infestation",
+            "content": "These little blue humanoids are perhaps the most annoying life form that I have yet encountered on this planet. On more than one occasion they have stolen and dismantled my research equipment as I have been surveying these caverns. And they are somehow familiar to me. I know I have seen them somewhere before…",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }]
+}, {
+    "label": "Malgrave",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Geological Irony",
+        "content": "This valley is truly a geological wonder, located in the shadow of these massive crystalline structures. Although it may sound ironic, I do find a certain peace here. Perhaps this is because it represents the strength and beauty of the natural world - at least as natural as can be expected here on Nexus.\n\nBefore coming here, I was informed by the Archon that I will not be one of the six - and it appears that none of my colleagues in the Order of the Shapers will be selected either.\n\nIt may be inappropriate to say, but I have never been so relieved.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Algoroc",
+    "entries": [{
+        "order": 2,
+        "headline": "TODO Subterranean Descent",
+        "content": "The structure and complexity of these subterranean caverns far exceeds my expectations. I have wandered them for days now, and it seems there is no end to them.\n\nAnd I must admit, there are times I would rather stay down here than to witness those things taking place on the surface…",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Skullcano",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Hellish Excavations",
+        "content": "Why I find myself deep beneath this volcano is still a mystery to me, but I agreed to help Progenitor Nazrek with what he called a \"personal project,\" and so here I am. Nazrek requested that I shape a series of tunnels between the base of the volcano and its caldera above, ones that are traversable, but still deadly to most organic life forms.\n\nAnd why am I down here in this heat? Because, he said, \"you can’t have heaven without hell.\" Next he wants me to shape a skull into the side of the mountain!\n\nI did not even bother asking the reason for that.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Exanite",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Sublime Substance",
+        "content": "Exanite. There is no more perfect substance in the known universe. Composed of equal amounts of each of the six primal elements, it possesses incomparable strength and density, along with other exotic physical and chemical properties that lesser races might describe as supernatural. It is also extremely rare. If present at all, most planets only contain trace amounts of exanite. But of course, Nexus is not most planets…",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}]

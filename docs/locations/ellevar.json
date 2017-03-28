@@ -1,0 +1,22 @@
+[{
+    "label": "Notes of the Eldan",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Explosive Energy",
+        "content": "The geological characteristics of this region are very interesting. Subterranean scans reveal numerous reservoirs of primal water just beneath the surface, often resulting in explosive geysers that burst forth from the ground.\n\nSuch phenomena are to be expected given the inherent instability of the substance - but the Pell, sadly, have begun to view them as something more divine.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Future Consequences",
+        "content": "I have completed my survey of this region, and I am as impressed with its geologic diversity as I have been with the rest of this planet.\n\nIt is difficult to imagine a more suitable location to embark on the Project, although I continue to harbor concerns about the consequences if indeed we are successful. Not surprisingly, my opinions have not been popular among my colleagues.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Primal Phenomenon",
+        "content": "This region is truly fascinating. The intensity of its natural primal matrices is beyond anything that I’ve ever experienced, allowing me to manifest evocations of unexpected power. \n\nThese intensities also have a tangible impact on the life forms that exist in this forest, often resulting in individuals with drastically different physiologies and biological traits. This particular location seems especially prone to the phenomenon.",
+        "source": "Datacube by Elyona",
+        "sourcetype": "datacube"
+    }]
+}]

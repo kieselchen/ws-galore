@@ -1,0 +1,19 @@
+[{
+    "label": "Focus Technology",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 0: Focused Technology",
+        "content": "I have recently finished the design for the six Primal Focuses that will be located at various locations across planet Nexus.\n\nThese will be essential to completing the first phase of the Project, but I foresee other, more interesting applications for them as well.\n\nI am not one to sing my own praises, but these devices are some of the most advanced pieces of technology that the Eldan have ever created.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Primal Energy",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 0: Combustible Creation",
+        "content": "With my aid, the Makers have created a machine to create elemental life forms from pure primal fire.\n\nThe infusion process is complicated, and well beyond the often blunt mechanical minds that are characteristic of their order. Regardless, the life forms do display a dangerous beauty.\n\nThe Pell seem especially enamored with them. Perhaps I will share the secrets of their making with our simple servants.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }]
+}]

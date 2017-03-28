@@ -1,0 +1,45 @@
+{
+    "Notes of the Eldan": [{
+        "order": 1,
+        "headline": "Phase 1: Unexpected Survival",
+        "content": "I am very surprised that AV-3 has thrived on Nexus, especially given the fact that we released them so quickly into the wild. Most test organisms are not so resilient.\n\nThe Weavers would say that primal air gives them strength and power, but I personally feel that it is a testament to my own elegant design.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Female Leadership",
+        "content": "I find it interesting that the Falkrin females have been chosen as the voice of their new god, especially given how dominant the males were designed.\n\nThat being said, the females are far more intelligent and inherently skilled than their male counterparts. This, of course, is not surprising at all.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Misguided Concern",
+        "content": "These avian beasts and their pathetic cultural charade are a growing threat to the Project’s goals in this region.\n\nThey should have been destroyed once they had served their purpose. I begin to tire of Ohmna’s misguided concern for these inferior creations.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Phase 1: Discarded Prototype",
+        "content": "Now this is an unexpected surprise. These early AV-3 prototypes have survived, and now call themselves the \"Murgh\".\n\nMy records indicate they were scheduled for termination based on defects in their design, but it looks as if they escaped into the wild and are now subservient to the Falkrin.\n\nPerhaps we have less control here than we truly believe.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Phase 1: Envious Illusion",
+        "content": "Ah, these Falkrin! My dear AV-3s! Such things they have achieved in the centuries since I first engineered them.\n\nWho would have guessed that they would eventually construct such impressive cities, or would someday worship a winged god created by our own hands? Do they understand what has actually taken place here? And what would they think if they knew what was soon to come?\n\nI envy them. They still exist under the comfortable illusion that their lives represent more than a means to an end.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 6,
+        "headline": "Phase 2: Emergent Religion",
+        "content": "These \"Falkrin\" - as the AV-3s have come to call themselves - have developed a fervent religion based upon the worship of their 'god' Osiric.\n\nThis is an interesting development given the origins of each - but I feel as if this relationship, if allowed to continue, might present significant difficulties at some point in the future.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 7,
+        "headline": "Phase 2: Avian Origins",
+        "content": "The evolution of the Falkrin continues to amaze me, having released the initial prototypes into the wild after data collection. They were not expected to survive, but instead they have flourished into a successful, albeit primitive, civilization.\n\nTheir recent worship of Osiric introduces... complexities... into their ongoing development.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }]
+}

@@ -1,0 +1,16 @@
+[{
+    "label": "Notes of the Eldan",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Savage Beauty",
+        "content": "The size, strength and ferocity of organism X87 is awe-inspiring, and I often lure unsuspecting creatures near its lair to admire the sheer savageness of their slaughter.\n\nMore than once, I have thought about subjecting a number of my short-sighted colleagues to the same fate.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "TODO Mysterious Delivery",
+        "content": "As per the request of my colleague Nazrek, I have created a larger, stronger and more aggressive version of organism X87, and had it delivered to this island.\n\nWhen asked about the reason for this work, Nazrek merely smiled and said \"everybody needs something to fear and worship.\"\n\nBeing not at all interested in what that might mean, or who would inevitably suffer from it, I left without another word.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }]
+}]

@@ -1,0 +1,61 @@
+[{
+    "label": "Focus Technology",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 0: Focused Technology",
+        "content": "I have recently finished the design for the six Primal Focuses that will be located at various locations across planet Nexus.\n\nThese will be essential to completing the first phase of the Project, but I foresee other, more interesting applications for them as well.\n\nI am not one to sing my own praises, but these devices are some of the most advanced pieces of technology that the Eldan have ever created.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Incomparable Power",
+        "content": "The Focus of Air represents one of the Eldan’s greatest technological achievements, its scale and complexity almost impossible to comprehend.\n\nI was there to witness its sheer power at the genesis of this Project, and it is a sight I will never forget.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 2: Destructive Modification",
+        "content": "Our recent modifications of the Focus of Air for the Osiric Protocols have given me insight about other ways it might be utilized. With only a few minor adjustments, it could be transformed into a powerful weapon of unprecedented destructive capabilities. We must ensure that it never falls into the wrong hands…",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Primal Energy",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Uncontrolled Energies",
+        "content": "Air has always been my favorite of all the primal powers. It is dynamic, wild, and inherently resistant to control.\n\nI visit this region often, drawn by the powerful storms that often surround the Focus of Air. It serves as a useful reminder that there are still many things beyond our control...",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Crystalline Matrix",
+        "content": "These loftite crystals are fascinating. I have never before encountered a substance so purely infused with primal air - resulting in an extraordinary localized reduction in the force of gravity.\n\nIt seems the beginning of our little \"science project\" can be counted a success.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Uncertain Trust",
+        "content": "Aviel has asked me to construct a number of power converters for what she calls her \"secret little project\" inside the nearby caves. I generally try to avoid the kind of trouble that comes with the Weavers, and especially Aviel, but cooperation and collaboration among the Orders will be vital if we are to achieve our great work on Nexus.\n\nI only hope she does not betray my trust.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Phase 1: Volatile Power",
+        "content": "By extracting pure primal air from loftite crystals, the tower below is able to generate wildly different meteorological effects.\n\nCurrently the machine is generating a storm, but it could just as easily create destructive bolts of lightning, or a whirlwind of such power it would tear this facility apart. What a sight that would make...",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Phase 1: Violent Tempest",
+        "content": "Our research here has been enlightening. By harnessing the power of loftite crystals, this tower has created a violent storm.\n\nThe sheer power unleashed has exceeded our expectations, indicating that we will reach the final stage of the Project.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 6,
+        "headline": "Phase 1: Arboreal Ascension",
+        "content": "These trees are fascinating. My analysis indicates that they are infused with extremely high levels of primal air resulting in their elevated status.\n\nCurious... the existence of such a life form indicates that the latter phases of the Project might indeed be attainable.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }]
+}]

@@ -1,0 +1,16 @@
+[{
+    "label": "Note of the Eldan",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Geological Irony",
+        "content": "This valley is truly a geological wonder, located in the shadow of these massive crystalline structures. Although it may sound ironic, I do find a certain peace here. Perhaps this is because it represents the strength and beauty of the natural world - at least as natural as can be expected here on Nexus.<p>Before coming here, I was informed by the Archon that I will not be one of the six – and it appears that none of my colleagues in the Order of the Shapers will be selected either. It may be inappropriate to say, but I have never been so relieved.</p>",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 4: Spectral Echoes",
+        "content": "As per the request of the Progenitors, I have installed a number of Matrix Amplifiers in this region. These devices should hyper-accelerate the physiological development of local creatures, increasing their size exponentially, but they might also have an interesting side effect.\n\nAs the strength and density of the life matrix increases, the primal patterns of nearby organisms could hypothetically be imprinted as well - resulting in \"spectral echoes\" that would persist long after the organisms themselves had perished.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }]
+}]

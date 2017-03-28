@@ -1,0 +1,229 @@
+{
+    "Species: The Osun": [{
+        "order": 1,
+        "headline": "Forbidden Knowledge",
+        "content": "The Archon has asked me to complete a comprehensive analysis of the OS-1’s, err, Osun’s cultural development in this region, and I am both impressed and concerned about what I have found.\n\nThere are a number of technological advancements that they have recently achieved without our knowledge or our guidance, and rumors abound that they have discovered the secret of forging exanite.\n\nMy recommendation was complete and total annihilation of the species based on these facts, but it seems the Archon wants to take a more measured, and ultimately short-sighted, approach to the problem.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }],
+    "Species: The Falkrin": [{
+        "order": 1,
+        "headline": "Emergent Religion",
+        "content": "These \"Falkrin\" - as the AV-3s have come to call themselves - have developed a fervent religion based upon the worship of their 'god' Osiric.\n\nThis is an interesting development given the origins of each - but I feel as if this relationship, if allowed to continue, might present significant difficulties at some point in the future.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Avian Origins",
+        "content": "The evolution of the Falkrin continues to amaze me, having released the initial prototypes into the wild after data collection. They were not expected to survive, but instead they have flourished into a successful, albeit primitive, civilization.\n\nTheir recent worship of Osiric introduces... complexities... into their ongoing development.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }],
+    "Primal Elemental: Water": [{
+        "order": 1,
+        "headline": "Elemental Anomaly",
+        "content": "Hmmm. These elemental creatures have developed an unusual interest in one of their own kind - a powerful individual that lives beneath the waters.\n\nIn most organisms, I would not find such behavior anomalous, but I generally consider elementals to be primitive life forms at best. That these should display such advanced societal behaviors makes them special - and pleasantly dangerous.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }],
+    "Evolution: Wilderrun": [{
+        "order": 1,
+        "headline": "Living Manifestation",
+        "content": "I am delighted to have discovered another specimen of this extraordinary tree. There is really nothing like it on this planet.\n\nCoursing with such pure energy, it is a living manifestation of the power of primal life itself. I cannot imagine that any source of blight or disease could ever cause it harm.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }],
+    "Technology: Elder Cube": [{
+        "order": 1,
+        "headline": "Elder Cube",
+        "content": "The Elder Cube is an extraordinary piece of technology - a storage device with almost limitless capacity, coupled with advanced cryptographical algorithms that are statistically impossible to decipher.\n\nFor any other endeavor, such a device would be gratuitously exorbitant, but the vast quantities of data that we have compiled in the Nexus Project pushed even the Elder Cube to its limits. It must never fall into the wrong hands.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Manual Override",
+        "content": "I have requested that the Makers install a manual override for the Elder Cube’s security systems.\n\nAlthough such a crude technological solution is rarely necessary, it would be unforgivable if the information which describes our monumental achievement here on Nexus was rendered completely inaccessible due an unforeseen catastrophic event.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }],
+    "Technology Augmentation": [{
+        "order": 1,
+        "headline": "Augmented Life",
+        "content": "I believe that I have finally developed a stable process for biomechanical improvement. I call it augmentation. Using nanotechnology, I have been able to re-engineer organisms at the molecular level, eradicating their inherent weaknesses through cybernetic enhancements. The Archon was extremely impressed with my early simulations, but has requested more tangible results. I begin work on biological subjects immediately.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Omni-Plasmic Control",
+        "content": "This facility has been constructed solely for the purpose of producing and storing omni-plasm, the nanite-infused liquid that makes augmentation technology possible.\n\nFrom this location, I can directly modify the nanite's algorithms which govern the creation of cybernetic enhancements, providing me with precise control at the molecular level. We approach ever closer to the goals of the Project.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Technological Enhancement",
+        "content": "The process of Augmentation is an important step for the larger goals of the Project. Through our advanced nanotechnology, we can now cybernetically enhance organisms, correcting the inherent weaknesses and flaws that inevitably rise through natural evolution.\n\nTrue perfection might finally be within our grasp...",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Functional Immortality",
+        "content": "This spider represents a landmark in the development of Augmentation technology. I released an augmented organism into its lair, which it immediately attacked and then partially consumed.\n\nWithin minutes, the nanites from the victim began augmenting the spider, reprogramming themselves based on the biological traits of their new host. Not unlike certain biological viruses, these nanites have, in effect, become immortal.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Successful Iteration",
+        "content": "This experiment was a success, as these creatures now display greater strength, ferocity and intelligence as a result of the augmentation. I have extracted all useful data, and will now seal the caverns that contain the affected subjects.\n\nIt would be most unwise to unleash this population upon the surface.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 6,
+        "headline": "Containment Issue",
+        "content": "Although powerful, this process of Augmentation seems dangerous and unpredictable.\n\nWithout the proper controls, the nanites responsible for creating cybernetic enhancements could spread like a virus, putting the larger goals of the Project at risk.\n\nThe Makers must proceed carefully.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 7,
+        "headline": "Questioning Protocol",
+        "content": "I find the Maker's latest 'innovation' distasteful, and I strongly disagree that we cannot reach perfection through biological means alone. This augmentation is a blunt tool at best, and destroys an organisms natural insight and instinct by installing cerebral mechanisms for control.\n\nI will soon bring my objections to the Archon...",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 8,
+        "headline": "Sentient Control",
+        "content": "The Progenitor's objections to Augmentation have forced me to rethink my design, especially as it relates to sentient beings. Although I cannot stand their meddling, I must admit the validity of their observations.\n\nI am creating a newer prototype with much more subtle cerebral controls. The subject may not even know what has taken place...",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 9,
+        "headline": "Promising Prototype",
+        "content": "I have studied Vorion’s little pet, and even I must admit that his augmentation process is impressive. By merely injecting an organism with nanite-infused omni-plasm, he has been able to cybernetically enhance their inherent biological traits. As a result, this spider is faster, more aggressive, and deadlier. But this process takes time, and time is not always a luxury we enjoy. I am currently developing a more rapid process for biomechanical re-engineering...",
+        "source": "Datacube by Zarkonis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 10,
+        "headline": "Scientific Reanimation",
+        "content": "This tar pit is the perfect location for my own experiments in augmentation technology. Although Vorion has successfully augmented living creatures, I am extremely interested in observing how the omni-plasmic nanites will respond to inanimate tissue. I’m certain the results will be monstrously fascinating.",
+        "source": "Datacube by Zarkonis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 11,
+        "headline": "Modified Clones",
+        "content": "Along with my recent focus on developing augmentation technology, I have also been experimenting with the advanced cloning techniques developed by the Progenitors. By extracting an organism’s primal pattern, it is possible to create unlimited biological duplicates – which can then be significantly enhanced using augmentation. Applications? Rapidly creating a powerful military force would be the most obvious.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 12,
+        "headline": "Cybernetic Progress",
+        "content": "We have continued to make impressive strides in augmentation technology. I have recently developed a more effective version of omni-plasm, one that results in more powerful cybernetic enhancements and weapons systems. The limitations of the flesh are no longer a concern for us.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }],
+    "Technology: Recombination": [{
+        "order": 1,
+        "headline": "Dangerous Obsession",
+        "content": "The Watchers are extremely concerned about the so-called “recombination” experiments of Maker Zarkonis.\n\nNot only do they display a blatant disregard for scientific principle and protocol, but I personally feel as if they are motivated by a growing sense of inferiority that Zarkonis feels in relation to Maker Vorion and his recent successes. I must speak with the Archon before things progress too far.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Traumatic Replacement",
+        "content": "I am very close to perfecting my recombination technology! Instead of utilizing nanites to build biomechanical constructs, my Recombinator removes the target limbs and organs, and then directly replaces them with mechanical constructs.\n\nGranted, the process is violent, traumatic, and bloody – and at this stage the resultant creatures are physiologically unstable – but I still feel as if this is a marked improvement over Vorion’s augmentation technology.\n\nAnd the accusation of Ionis that this is somehow a personal obsession driven by my sense of inadequacy? Preposterous!",
+        "source": "Datacube by Zarkonis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Recombination Chamber",
+        "content": "The Archon continues to disappoint me with his shortsightedness. My Recombination Chamber is a vastly superior alternative to omni-plasmic augmentation. True, most subjects do not survive the process, and those that do are often physically and psychologically scarred. But these are mere details! I regret that I will not be able to continue this innovative research.",
+        "source": "Datacube by Zarkonis",
+        "sourcetype": "datacube"
+    }],
+    "Facility: Star-Comm Station": [{
+        "order": 1,
+        "headline": "Phase 2: Advanced Transmission",
+        "content": "Star-Comm Station is one my most elegantly designed facilities; a powerful communications device that allows us to securely send massive amounts of scientific data across the vastness of space without fear of signal loss or interruption. Given the importance of the information that we will soon transmit, my extensive efforts in its design and construction were undoubtedly justified.",
+        "source": "Datacube by Zarkonis",
+        "sourcetype": "datacube"
+    }],
+    "Projects: The Osiric Protocols": [{
+        "order": 1,
+        "headline": "Alpha Phase",
+        "content": "This canyon is a perfect place to achieve the first phase of the Osiric Protocols, near enough to the Focus of Air that we can draw latent primal energy from the surrounding atmosphere.\n\nOur servants, the Pell, have been very helpful in constructing the system, continuing to prove their usefulness to the Project.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Creature Genesis",
+        "content": "The Makers have assured me that the Focus of Air can theoretically be used for the Osiric Protocols, although I find it hard to believe that the test subject will survive exposure to such tremendous levels of primal energy.\n\nWhat unimaginable creature will step forth when the process is complete?",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Imminent Transformation",
+        "content": "We have finished the Incubator and installed it in the cave at the end of this canyon... and one of the Pell has volunteered to be our first test subject for sentient infusion. I look forward to seeing the outcome.\n\nIf we are successful, achievement of the Osiric Protocols will soon be within our grasp.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }],
+    "Focus Technology: Air": [{
+        "order": 1,
+        "headline": "Destructive Modification",
+        "content": "Our recent modifications of the Focus of Air for the Osiric Protocols have given me insight about other ways it might be utilized. With only a few minor adjustments, it could be transformed into a powerful weapon of unprecedented destructive capabilities. We must ensure that it never falls into the wrong hands…",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }],
+    "Projects: The Hydris Protocols": [{
+        "order": 1,
+        "headline": "Chosen One",
+        "content": "It is a great honor to have been chosen as the potentiate for the Hydris Protocols! Of all those who might be worthy, and it is I who the Archon has named.\n\nUpon reflection, I do find it a bit strange. Unnerving. Almost as if there my colleagues have some clandestine motive, as yet undefined.\n\nSchemers! I don’t trust any of them!",
+        "source": "Datacube by Yuria",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Fluid Instability",
+        "content": "Water is the most difficult of all of the primal elements. It is elusive and unpredictable, with an inherent instability that makes it difficult to manipulate.\n\nIt should therefore come as no surprise that Yuria has been chosen for the Hydris Protocols. She could not possibly be more unstable.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Appropriate Selection",
+        "content": "My excitement continues to build as we near the execution of the Hydris Protocols, although I find it a bit unsettling that I was selected to be infused by the most unpredictable and unstable of all of the elements.\n\nThe Archon has encouraged me not to read anything into it. I mean, why would I possibly fail to trust such a disingenuous misguided bureaucrat?! Does he think me such a fool?",
+        "source": "Datacube by Yuria",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Unpredictable Outcome",
+        "content": "As we near the execution of the Hydris Protocols, I must admit that I have grave concerns about the selection of Yuria.\n\nAlthough the Evokers are generally obtuse and unpredictable, Yuria’s particular instabilities are extreme.\n\nI understand she was chosen for exactly this reason, but I fear that something terrible is on the horizon.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Unstable Transcendence",
+        "content": "It is only hours before I am to make my final transformation. I can feel the others looking at me all the time.\n\nIs it pity? Fear? No, wait. I know. It’s jealousy. They covet the honor for which I have been chosen! Well, I don’t blame them. Who wouldn’t want to become as a god? It’s such a great burden.\n\nAnd a terrible god I shall be! I will destroy them all!",
+        "source": "Datacube by Yuria",
+        "sourcetype": "datacube"
+    }, {
+        "order": 6,
+        "headline": "Dangerous Opinions",
+        "content": "Hydris, Goddess of Water. Am I the only one amongst us who finds this troubling? Naming our creations after ancient Eldan gods?\n\nWhat began as our greatest work of science is slowly becoming something more insidious and dangerous.\n\nI must be more cautious. I have heard whispers about my 'obstructive opinions', and frankly, I begin to fear for my life.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 7,
+        "headline": "Protocol Deterioration",
+        "content": "Power levels for the Focus of Water appear stable. Initiating primal matrix. Commencing Hydris Protocols in \n\n5... \n\n4... \n\n3... \n\n2... \n\n1... \n\nInfusion process initiated. Cellular transformation in process. Subject’s vitals are normal... wait, we are seeing a psychological fluctuation.\n\nAttempting to normalize. Normalization failed.\n\nOh, no. Primal matrix deteriorating. System overload imminent!\n\nSubject is... by the gods of Orias... run!",
+        "source": "Datacube by the Nexus Project",
+        "sourcetype": "datacube"
+    }, {
+        "order": 8,
+        "headline": "Tragic Conclusion",
+        "content": "I have little time. We were indeed successful in creating a stable matrix, but an unexpected power surge caused by volatile primal water resulted in a system overload.\n\nThe cavern is being flooded with a toxic vapor, and hostile elemental life forms created in the reaction are now attacking my assistants. I am shutting the system down now.",
+        "source": "Datacube by Xarophet",
+        "sourcetype": "datacube"
+    }, {
+        "order": 9,
+        "headline": "Tragic Outcome",
+        "content": "The tragedy of the conclusion of the Hydris Protocols cannot be overstated.\n\nAlthough we extracted the necessary data in order to proceed to the next stage of the Nexus Project, the Focus of Water has been irreparably damaged, and the test subject has disappeared into the deeps.\n\nStill, we must press on. Our greatest work still lies before us.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }]
+}

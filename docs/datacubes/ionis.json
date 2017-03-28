@@ -1,0 +1,191 @@
+{
+    "Technology: Terraforming": [{
+        "order": 1,
+        "headline": "Phase 1: Unacceptable Loss",
+        "content": "A recent large asteroid impact destroyed the silo below, rendering it completely useless for the scheduled terraforming experiments.\n\nAlthough this occurrence is unfortunate, the Makers assure me that their planetary defense system will soon be in place. For now, I have granted the silo to Progenitor Nazrek, who assures me that he will put it to good use...",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }],
+    "Species: The Falkrin": [{
+        "order": 1,
+        "headline": "Phase 2: Emergent Religion",
+        "content": "These \"Falkrin\" - as the AV-3s have come to call themselves - have developed a fervent religion based upon the worship of their 'god' Osiric.\n\nThis is an interesting development given the origins of each - but I feel as if this relationship, if allowed to continue, might present significant difficulties at some point in the future.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}
+[{
+    "label": "Species: The Pell",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Unexpected Aberration",
+        "content": "The Pell have begun to display... irregularities, no doubt caused by prolonged exposure during the Project’s first phase.\n\nCertain individuals are now molecularly attuned to specific primal energies, resulting in behavioral aberrations not unlike religious fervor.\n\nAlthough they are still very capable servants, I fear that they have undergone an irrevocable transformation.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Primal Attunements",
+        "content": "Due to their role in our experiments here on Nexus, the Pell seem to have developed attunements and sensitivities to particular primal powers – and it appears as if these traits are being passed from one generation to the next. It will be interesting to see how this situation develops...",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Inevitable Decline",
+        "content": "The Pell’s attunements to particular primal energies are becoming more pronounced as the years pass, and those attuned to primal water, expectedly, are the most unstable and impressionable.\n\nAlthough they continue to be faithful and competent servants, I fear they face a future of slow and inevitable decline.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Species: The Osun",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Parameters Exceeded",
+        "content": "The development of the OS-1 has been a very impressive achievement for the Progenitors, and the Watchers continue to be impressed by their adherence to protocol in their training.\n\nBut despite these accomplishments, I still have concerns about the speed of their advancement. We have already exceeded the established parameters for physical and psychological control.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 1,
+        "headline": "Phase 1: Critical Juncture",
+        "content": "Although the OS-1 experiment has been an indisputable success, it is the opinion of the Watchers that the situation is disturbingly volatile.\n\nDespite our efforts to present ourselves as powerful deities to the OS-1s, they have displayed increasing levels of independence and hostility.\n\nCoupled with their exponential advancements in technology, I fear that we are quickly approaching a climactic event.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Intense Aggression",
+        "content": "Having repeatedly heard their designation, the OS-1s have now begun to call themselves the ‘Osun’.\n\nThey have also begun to exhibit increased brutality and aggression as a result of their training and development. Although these traits are essential to their design, I fear that these tendencies could become unmanageable in the future.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Species: The Moodies",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Protocol Breach",
+        "content": "Despite the objections of his Order, Progenitor Nazrek has made a number of enhancements to these so-called Moodies.\n\nCertain individuals now display an inherent skill in evocation, allowing them to reanimate their dead. Nazrek’s questionable choices will be noted.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "TODO Prohibited Variable",
+        "content": "Interesting. These organisms did not arise here, but instead were created by one of the Progenitors and then subsequently scheduled for termination.\n\nI will have to report this infraction to the Archon. Such emotional tendencies will lead to the Project’s failure if they cannot be contained.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Creatures: The Terminites",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Noxious Colony",
+        "content": "As I feared, a number of subjects from the terminite experiment have escaped and established a colony directly beneath this power converter. The noxious gasses emitted from this hive are both poisonous and corrosive, rendering the unit unusable.\n\nAlthough trivial, this lapse in security and procedure is part of an alarming, continuing trend among the Orders.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Project: The Elderoot Initiative",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Unexpected Mutation",
+        "content": "Although the Elderoot Initiative should be counted a resounding success, there have been unforeseen side effects. A large amount of excess primal energy is radiating from some of the tree’s roots, resulting in small mutations of the subterranean wildlife. Over time, this situation could become increasingly worse.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Technology: Elder Cube",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 2: Elder Cube",
+        "content": "The Elder Cube is an extraordinary piece of technology - a storage device with almost limitless capacity, coupled with advanced cryptographical algorithms that are statistically impossible to decipher.\n\nFor any other endeavor, such a device would be gratuitously exorbitant, but the vast quantities of data that we have compiled in the Nexus Project pushed even the Elder Cube to its limits. It must never fall into the wrong hands.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 4: Cognitive Influence",
+        "content": "It has come to my attention that the Elder Cube was engineered with a low-level neural matrix, imbuing it with simple cognitive capabilities. This allows it to make simple decisions as they relate to its own security, but it also has another unexpected result.\n\nLower-level life forms, such as our servants the Pell, could possibly be influenced or even controlled by the Cube itself if left too long in its presence.\n\nI will raise my concerns to the Archon - but I fear that at this stage of the Project, they will more than likely be ignored.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {
+    "label": "Genesis Prime",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Difficult Choice",
+        "content": "In light of the recently defined parameters for the creation of the Genesis Prime, we must now choose six candidates from among the Orders who will serve as its vessels.\n\nThis decision may indeed be the most vital in the history of our entire species. If the Genesis Prime is to be our greatest achievement, these individuals must represent our most innovative and brilliant minds.\n\nNot surprisingly, the Watchers have been tasked with making this decision.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "The Nexus Project",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Structural Instability",
+        "content": "I have witnessed a number of disturbing behaviors in certain individuals, and a growing schism between the Orders as the Project continues. Although this was not completely unforeseen, I do have concerns about the unexpected variables and their consequences.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Luminai Project",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 3: Genetic Instability",
+        "content": "Despite the Archon’s approval, it is the opinion of the Watchers that there are inherent flaws in the design of the Luminai. The Progenitors have made it very clear that genetic flaws may arise from multi-generational breeding, perhaps leading to delusion, madness and other forms of mental instability.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 3: Dominus Born",
+        "content": "The Luminai hybrid known as Dominus has now completed his training with Tresayne Toria, and will soon leave for planet Cassus to rule. Despite my initial concerns about both the Cassian Initiative and the Luminai Project, I must admit that I am completely satisfied with their progress thus far.\n\nDominus is truly an impressive creature, and I am certain that the Cassians will follow him without question. The age of the Dominion is now at hand.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "The Caretaker",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO System Fractures",
+        "content": "The Caretaker construct created by the Makers is extremely impressive, but my observations into its creation have revealed what may be a serious design flaw.\n\nAlthough the size and scope of the Project requires that the Caretaker’s personality architecture supports multiple avatars working in concert, it also opens the possibility of fractures in the case of system failure.\n\nThis could lead to unproductive, even violent competition between the avatars in certain circumstances.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Technology: Augmentation",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 2: Containment Issue",
+        "content": "Although powerful, this process of Augmentation seems dangerous and unpredictable.\n\nWithout the proper controls, the nanites responsible for creating cybernetic enhancements could spread like a virus, putting the larger goals of the Project at risk.\n\nThe Makers must proceed carefully.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 4: Unstable Mind",
+        "content": "I have recently become concerned with Maker Vorion’s state of mind.\n\nWith the completion of these technological laboratories, he spends more and more of his time deep underground, whispering to himself about his technological creations and even more advanced future designs.\n\nHe can often be found in this augmentation complex. On more than one occasion I have heard him speaking to the augmented subjects as if they were his pets.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Technology: Recombination",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 2: Dangerous Obsession",
+        "content": "The Watchers are extremely concerned about the so-called “recombination” experiments of Maker Zarkonis.\n\nNot only do they display a blatant disregard for scientific principle and protocol, but I personally feel as if they are motivated by a growing sense of inferiority that Zarkonis feels in relation to Maker Vorion and his recent successes. I must speak with the Archon before things progress too far.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+} {
+    "label": "Whitevale",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Dangerous History",
+        "content": "The difficulties presented in this region have brought to light an alarming tendency to disregard scientific protocol in pursuit of the Project’s larger goals.\n\nSuch behavior almost led to our destruction in the past, and the Order of Watchers was established to ensure it never happened again. I must once again speak to the Archon.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Projects: The Luminai Project",
+    "entries": [{
+        "order": 4,
+        "headline": "Phase 3: Peculiar Fascination",
+        "content": "We have tasked the Pell with overseeing Tresyane Toria and her servants while the Progenitors work on creating the Luminai hybrid.\n\nAlthough, I am certain that the Pell will serve us loyally as they always have, their interest in Toria has become an intense adoration that I personally find distasteful. Even I must admit that she is a fascinating specimen, but she is still an experimental variable and should be treated as such.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}]

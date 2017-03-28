@@ -1,0 +1,22 @@
+[{
+    "label": "Notes of the Eldan",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Humanoid Template",
+        "content": "In order to achieve the goals of the Project, I have created a custom humanoid template to use for future designs. This work is extremely complex, as I am precisely engineering every biological system of the template instead of manipulating those from existing organisms.\n\nNature rarely provides the perfection that my work on the Project will require.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Failed Experiments",
+        "content": "My work within the exo-lab has been progressing well, but any experiments are bound to produce unwanted results. Instead of wasting power on biological disposal, I have merely discarded the failed experimental organisms into the wild.\n\nI have no doubt that the inherent imperfections of these Dregs will result in their demise.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Piteous Existence",
+        "content": "Much to my surprise, I recently discovered this tribe of humanoids living upon these arid wastes.\n\nAn analysis of their physiology shows that they share numerous traits with Nazrek’s humanoid template - although high levels of biological mutation within the group would seem to indicate that these individuals are descended from early, failed prototypes. I find them... piteous, in a way.\n\nPrimitive, savage, and brutal, these Dregs have never known anything but rejection and pain.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }]
+}]

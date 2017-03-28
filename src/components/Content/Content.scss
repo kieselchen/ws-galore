@@ -1,0 +1,25 @@
+@import './base';
+
+.entryContent {
+    border-top: 1px solid $border-color;
+    border-bottom: 1px solid $border-color;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.entryContent p {
+    margin: 0;
+    line-height: 1.5;
+    padding-bottom: 15px;
+}
+
+.entryContent em {
+    color: #ffe5b2;
+    font-size: 12px;
+    font-style: normal;
+}
+
+.entryContent strong {
+    color: #a19ba6;
+    font-weight: 600;
+}

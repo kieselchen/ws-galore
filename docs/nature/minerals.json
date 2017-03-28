@@ -1,0 +1,31 @@
+[{
+    "label": "Loftite",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Primal Disruptor",
+        "content": "The Primal Disruptor provides an abundant source of power by transforming elemental life forms into refined loftite crystals.\n\nTheir sacrifice is necessary if we are to advance the great work that we are doing here.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Violent Tempest",
+        "content": "Our research here has been enlightening. By harnessing the power of loftite crystals, this tower has created a violent storm.\n\nThe sheer power unleashed has exceeded our expectations, indicating that we will reach the final stage of the Project.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 1,
+        "headline": "Phase 1: Crystalline Matrix",
+        "content": "These loftite crystals are fascinating. I have never before encountered a substance so purely infused with primal air – resulting in an extraordinary localized reduction in the force of gravity. It seems the beginning of our little “science project” can be counted a success.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }, {}, {}, {}, {}]
+}, {
+    "label": "Exanite",
+    "entries": [{
+        "order": 1,
+        "headline": "Sublime Substance",
+        "content": "Exanite. There is no more perfect substance in the known universe. Composed of equal amounts of each of the six primal elements, it possesses incomparable strength and density, along with other exotic physical and chemical properties that lesser races might describe as supernatural. It is also extremely rare. If present at all, most planets only contain trace amounts of exanite. But of course, Nexus is not most planets…",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }]
+}]

@@ -1,0 +1,153 @@
+[{
+        "label": "Primal Energy: Fire",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 0: Combustible Creation",
+            "content": "With my aid, the Makers have created a machine to create elemental life forms from pure primal fire.\n\nThe infusion process is complicated, and well beyond the often blunt mechanical minds that are characteristic of their order. Regardless, the life forms do display a dangerous beauty.\n\nThe Pell seem especially enamored with them. Perhaps I will share the secrets of their making with our simple servants.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {
+        "label": "Primal Energy: Life",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 1: Focused Enhancement",
+            "content": "The black volcanic stone in this region is naturally infused with high levels of primal earth and life, resulting in the formation of these elemental creatures. \n\nI have decided to install a number of primal focusers in this particular location, assuming that it will result in the creation of a larger and more destructive specimen.\n\nPerhaps I will unleash it on the Maker's new augmentation facility to the east.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }, {
+            "order": 2,
+            "headline": "Phase 1: Geologic Acceleration",
+            "content": "This mineral is unlike anything I have ever encountered. Heavily infused with primal life, it appears to accelerate physiological systems, resulting in enhanced traits like increased stamina and faster reflexes. I must remember this. Such a substance presents� interesting� possibilities.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }, {
+            "order": 3,
+            "headline": "Phase 1: Totemic Power",
+            "content": "Fascinating. These primitive totemic sculptures are infused with high levels of primal life, providing a natural defense against damage and decay.\n\nIt seems the hulking forest guardians who created them have an instinctive grasp of both infusion and evocation, making them more dangerous � and infinitely more interesting.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {
+        "label": "Primal Energy: Water",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 1: Aquatic Infusion",
+            "content": "This is a perfect location for my upcoming experiment. By tapping the massive reservoir of primal water beneath this lake, I hope to weave a being of pure primal energy.\n\nIf successful, this will represent a landmark in the history of my Order and a giant step towards achieving the goals of the Project itself. I suppose I must mention the technological contribution of the Makers, although I consider it trivial at best.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }, {
+            "order": 2,
+            "headline": "Phase 1: Biological Agent",
+            "content": "The inherent instability of primal water opens up a number of interesting possibilities. By weaving malignant biological material with the substance, I have been able to create an extremely virulent gaseous agent - one that even in the smallest amount has proven fatal to test subjects.\n\nI must be cautious. The opportunity for mayhem among my colleagues often encourages me to ignore protocol.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }, {
+            "order": 3,
+            "headline": "Phase 1: Primal Infusion",
+            "content": "I have never before directly infused an organism with such high levels of primal energy, and I find the results to be staggering. The test subject has undergone a dramatic physical transformation and now displays previously unrecorded skills in evocation that make it a dangerous creature indeed. This revelation bodes well for the Project's next phase.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }, {
+            "order": 3,
+            "headline": "Phase 1: Physiological Amplifier",
+            "content": "Recent experiments with direct infusion of pure primal water into an organism�s bloodstream have revealed an unexpected result.\n\nIn almost every test subject, there were massive physiological changes - including greatly increased muscle mass and enhanced cardiovascular capabilities.\n\nNot surprisingly, neural instability has led to elevated aggression levels.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {
+        "label": "Primal Energy: Earth",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 1: Focused Enhancement",
+            "content": "The black volcanic stone in this region is naturally infused with high levels of primal earth and life, resulting in the formation of these elemental creatures. \n\nI have decided to install a number of primal focusers in this particular location, assuming that it will result in the creation of a larger and more destructive specimen.\n\nPerhaps I will unleash it on the Maker's new augmentation facility to the east.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {
+        "label": "Primal Energy: Air",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 1: Volatile Power",
+            "content": "By extracting pure primal air from loftite crystals, the tower below is able to generate wildly different meteorological effects. Currently the machine is generating a storm, but it could just as easily create destructive bolts of lightning, or a whirlwind of such power it would tear this facility apart.\n\nWhat a sight that would make...",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }, {
+            "order": 2,
+            "headline": "Phase 1: Crystalline Matrix",
+            "content": "These loftite crystals are fascinating. I have never before encountered a substance so purely infused with primal air - resulting in an extraordinary localized reduction in the force of gravity. It seems the beginning of our little \"science project\" can be counted a success.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }, {
+            "order": 3,
+            "headline": "Phase 1: Uncontrolled Energies",
+            "content": "Air has always been my favorite of all the primal powers. It is dynamic, wild, and inherently resistant to control. I visit this region often, drawn by the powerful storms that often surround the Focus of Air. It serves as a useful reminder that there are still many things beyond our control...",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }, {
+            "order": 4,
+            "headline": "Phase 1: Arboreal Ascension",
+            "content": "These trees are fascinating. My analysis indicates that they are infused with extremely high levels of primal air resulting in their elevated status. Curious� the existence of such a life form indicates that the latter phases of the Project might indeed be attainable.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {
+        "label": "Species: The Osun",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 1: Liquid Subjugation",
+            "content": "The Osun females display impressive skills with infusion and evocation that have evolved far beyond the simple lessons that I have shared with them. One individual created a powerful elixir that allowed her to subjugate inferiors, making them into mindless slaves. Our children are learning far more from us than we expected.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }, {
+            "order": 2,
+            "headline": "Phase 1: Strange Elixir",
+            "content": "The Osun's so-called Darkwitches have continued to perfect their arcane disciplines of subjugation, creating an elixir known as \"soulrot\" to enslave their thralls. After studying this mixture closely, I must admit that it reflects a dangerous level of potency that should be impossible to produce for a race so young. I might pity their victims if I wasn't so thoroughly impressed.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {
+        "label": "Species: The Falkrin",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 1: Female Leadership",
+            "content": "I find it interesting that the Falkrin females have been chosen as the voice of their new god, especially given how dominant the males were designed. That being said, the females are far more intelligent and inherently skilled than their male counterparts. This, of course, is not surprising at all.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {
+        "label": "Primal Elemental: Water",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 2: Elemental Anomaly",
+            "content": "Hmmm. These elemental creatures have developed an unusual interest in one of their own kind - a powerful individual that lives beneath the waters.\n\nIn most organisms, I would not find such behavior anomalous, but I generally consider elementals to be primitive life forms at best. That these should display such advanced societal behaviors makes them special - and pleasantly dangerous.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {
+        "label": "Projects: The Hydris Protocols",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 2: Fluid Instability",
+            "content": "Water is the most difficult of all of the primal elements. It is elusive and unpredictable, with an inherent instability that makes it difficult to manipulate.\n\nIt should therefore come as no surprise that Yuria has been chosen for the Hydris Protocols. She could not possibly be more unstable.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {
+            "label": "Primal: Water and the Hydris Protocols",
+            "entries": [{
+                "order": 7,
+                "headline": "Questionable Omniscience",
+                "content": "We consider ourselves so advanced. Yet I find it curious that we name our greatest creations after ancient Eldan gods.\n\nOsiric. Hydris.\n\nAre we still such fearful little children that we must invoke their names in order to find comfort?\n\nOr do we foolishly aspire to unattainable greatness? Neither prospect is especially comforting.",
+                "source": "Datacube",
+                "sourcetype": "datacube"
+            }]
+        }, {
+            "label": "Genesis Prime",
+            "entries": [{
+                "order": 1,
+                "headline": "Potential Candidate",
+                "content": "I have much to consider. The Archon has mentioned that I may be one of the six vessels chosen for the creation of the Genesis Prime.\n\nAlthough I cannot deny a certain fear about the process itself, it is greatly outweighed by the anticipation of what might follow.\n\nJust think of what I... what we.. could accomplish with such incomprehensible power. I would have no choice but to accept.",
+                "source": "Datacube",
+                "sourcetype": "datacube"
+            }]
+        }]

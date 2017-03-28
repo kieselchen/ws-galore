@@ -1,0 +1,16 @@
+[{
+	"label": "Notes of the Eldan",
+	"entries": [{
+		"order": 1,
+		"headline": "Insectoid Purity",
+        "content": "I have always respected the simple elegance of arachnid design. Blessed with the pure single-mindedness of insectoid intelligence, they viciously hunt and dispatch their prey unencumbered by illusions of conscience or morality. These are the natural laws that the Project should aspire to.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+	}, {
+        "order":      2,
+        "headline": "Predatory Efficiency",
+        "content": "I have long observed these arachnids, and I am very impressed with their evolutionary development. Structurally, they are almost without flaw, blessed with an instinctual predatory aggression that ensures their continued survival.\n\nI have collected extensive data on the species and plan to use it in my own future designs.",
+        "source":     "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }]
+}]

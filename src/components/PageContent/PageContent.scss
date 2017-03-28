@@ -1,0 +1,23 @@
+@import './base';
+
+.wrapper {
+  overflow: auto;
+  margin: 0 auto;
+  width: 1280px;
+  padding: 25px;
+  background: rgba(5, 11, 25, .7);
+  border-radius: 5px 5px 0 0;
+  @include boxshadow;
+  border-bottom: 0;
+}
+
+.footerPlaceholder {
+	height: 100px;
+}
+
+@media all
+and (max-width: 1300px) { 
+    .wrapper {
+        width: 100%;
+    }
+}

@@ -1,0 +1,52 @@
+[{
+    "label": "Notes of the Eldan",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Explosive Energy",
+        "content": "The geological characteristics of this region are very interesting. Subterranean scans reveal numerous reservoirs of primal water just beneath the surface, often resulting in explosive geysers that burst forth from the ground.\n\nSuch phenomena are to be expected given the inherent instability of the substance - but the Pell, sadly, have begun to view them as something more divine.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Religious Devolution",
+        "content": "I have read the reports concerning the Pell’s recent behavioral transformation - but I had not realized the true impact of the changes until I saw this building that they recently constructed without our knowledge.\n\nI can only describe it as some kind of religious temple, devoted to some undefined aquatic deity that a number of them have begun to worship.\n\nI have been assured that this does not represent a threat to the success of the Project, but I personally find their strange devolution a point of concern.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Unexpected Aberration",
+        "content": "The Pell have begun to display... irregularities, no doubt caused by prolonged exposure during the Project’s first phase.\n\nCertain individuals are now molecularly attuned to specific primal energies, resulting in behavioral aberrations not unlike religious fervor.\n\nAlthough they are still very capable servants, I fear that they have undergone an irrevocable transformation.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Phase 1: Primal Attunements",
+        "content": "Due to their role in our experiments here on Nexus, the Pell seem to have developed attunements and sensitivities to particular primal powers – and it appears as if these traits are being passed from one generation to the next. It will be interesting to see how this situation develops...",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Phase 1: Unnatural Interest",
+        "content": "The Pell seem to have taken a keen interest in the outcome of the upcoming experiment, one that sounds less like science and more like religious fervor.\n\nI fear that we have done our faithful servants irreparable harm in our experiments here. I can only hope that we achieve success...",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 6,
+        "headline": "Phase 1: Inevitable Decline",
+        "content": "The Pell’s attunements to particular primal energies are becoming more pronounced as the years pass, and those attuned to primal water, expectedly, are the most unstable and impressionable.\n\nAlthough they continue to be faithful and competent servants, I fear they face a future of slow and inevitable decline.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {}, {}, {}, {}, {
+        "order": 6,
+        "headline": "Phase 3: Peculiar Fascination",
+        "content": "We have tasked the Pell with overseeing Tresyane Toria and her servants while the Progenitors work on creating the Luminai hybrid.\n\nAlthough, I am certain that the Pell will serve us loyally as they always have, their interest in Toria has become an intense adoration that I personally find distasteful. Even I must admit that she is a fascinating specimen, but she is still an experimental variable and should be treated as such.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 7,
+        "headline": "UNDEFINED: Divine Incubation",
+        "content": "The Incubator is now complete, and the Pell test subject has been prepared for primal infusion.\n\nWith this experiment, I feel as if we are boldly venturing into an unexplored abyss - shattering the boundaries of science as we pursue our great work here on Nexus. I would never tell the others this, but I truly believe that divinity is finally within our grasp.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }]
+}]

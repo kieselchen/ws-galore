@@ -1,0 +1,35 @@
+{
+    "Star-Comm Station": [{
+        "order": 1,
+        "headline": "Phase 2: Advanced Transmission",
+        "content": "Star-Comm Station is one my most elegantly designed facilities; a powerful communications device that allows us to securely send massive amounts of scientific data across the vastness of space without fear of signal loss or interruption. Given the importance of the information that we will soon transmit, my extensive efforts in its design and construction were undoubtedly justified.",
+        "source": "Datacube by Zarkonis",
+        "sourcetype": "datacube"
+    }],
+    "The Techno-Core": [{
+        "order": 1,
+        "headline": "Phase 4: Impermeable Defense",
+        "content": "I have done it! By synchronizing the algorithmic matrices of our digital languages, I have created an impermeable, encrypted layer of security for the Project’s technology on Nexus. Now all of our facilities and constructs will be safe from outside sources of invasion or corruption. Only I know the sequence to unlock the encryption, and I am currently engineering an advanced device to store it for all eternity.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 4: The Techno-Core",
+        "content": "Behold! The Techno-Core! Built to store and protect the encryption for our technological security layer, it recalculates the formula in multi-dimensional phase space every nanosecond while simultaneously re-encrypting the derived values using the ever-shifting quantum structure of the device itself.\n\nThe resulting encryption is literally unbreakable. Our technology will forever be secure.\n\nI am the only individual in the universe with the knowledge to access the device, and nothing in existence could compel me to compromise its security.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 4: Tighter Control",
+        "content": "I have just completed my survey of Maker Vorion’s advanced technological laboratories, and I must say that they are nothing short of incredible.\n\nAs we near the completion of the Nexus Project, Vorion believed that tighter control and security of all Eldan technology on planet Nexus was of utmost importance, and he has achieved his goal.\n\nThis tower controls access to the facility below. Not surprisingly, access is limited to a very few individuals.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }],
+    "The Genetic Archives": [{
+        "order": 1,
+        "headline": "Phase 4: Genetic Archives",
+        "content": "The facility below serves as the Genetic Archives for the Nexus Project, a vast storage repository that contains the genetic information from billions of organisms from across the galaxy.\n\nIt has been of great use to us in the creation of the Genesis Prime, and must be protected at all costs. There are dangerous things that might be done with such a trove of knowledge.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }]
+}

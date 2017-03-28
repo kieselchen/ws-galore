@@ -1,0 +1,34 @@
+[{
+    "label": "Notes of the Eldan",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Primal Matrix",
+        "content": "The primal energy matrix in this region is exponentially stronger than any I have ever measured.\n\nAs a result, I have created a device that can directly access the matrix and then convert and store the power for later use.\n\nSuch technology has always been theoretically feasible, but the unique properties of Nexus have made it a reality. With access to this almost unlimited power source, there is almost nothing we cannot achieve here.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Fascinating Flora",
+        "content": "These trees display a measurable proto-sentience, almost an awareness of the energetic fields of primal life inherent to the forest. If another plant or organism in this region feels pain, these trees do also.\n\nThe existence of such advanced sensitivities in plant life is unprecedented. This planet is indeed the perfect place to complete our great work.",
+        "source": "Datacube by Elyona",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Pure Source",
+        "content": "My readings indicated a pure source of primal life within this forest, leading to the tree that now floats above me. What a fascinating specimen!\n\nIn all of my long life, I have never observed an organism so purely infused with primal power. I must take a closer look.\n\nWhat further secrets will it reveal?",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Phase 1: Savage Beauty",
+        "content": "This forest is truly impressive. I must admit that even with the powerful tools at my command, it would be difficult to create such a beautiful environment. That being said, one must not forget the dangers that exist here: the many vicious creatures on the hunt for prey. Being enthralled by such savage beauty could surely lead to disaster.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {}, {}, {}, {}, {
+        "order": 2,
+        "headline": "TODO Silent Ignorance",
+        "content": "I have walked through this forest for hours and stopped to collect my thoughts. There are times when I envy these trees, whose sole purpose is to thrive and grow in the small space allotted to them.\n\nSilent and strong, they are unburdened by ambition or malevolence or regret... and blissfully unaware of the darkness which often surrounds them.",
+        "source": "Datacube by Elyona",
+        "sourcetype": "datacube"
+    }]
+}]

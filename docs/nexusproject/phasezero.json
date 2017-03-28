@@ -1,0 +1,106 @@
+{
+    "Technology: Terraforming": [{
+        "order": 1,
+        "headline": "Impact Concerns",
+        "content": "As we near the first phase of the Project, this moon of Halon has served as the ideal location to perfect our large-scale terraforming technology.\n\nUnfortunately, debris from the previous catastrophe on Halon still falls to the moon’s surface, putting our scientific endeavors here at risk.\n\nI must speak to the Makers about a solution to this problem.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Manifested Mass",
+        "content": "This silo contains the first of our large-scale terraforming experiments, and I am extremely satisfied with our initial results. The device channels pure primal energies, creating an elemental matrix upon which mass is defined and then manifested.\n\nAlthough I generally avoid grandiose statements, in this case I will make an exception: we have indeed achieved the power of creation.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Geologic Malfunction",
+        "content": "The recent malfunction of the prototype terraformer has resulted in an interesting geologic anomaly. As the device no longer rotates, the balance of the primal matrix is no longer maintained. The result?\n\nA small crystalline outgrowth on the ground beneath this actuator. Despite my reservations, the Shapers have requested that I leave the device on, as they are interested in the long-term results of this situation.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Volcanic Punishment",
+        "content": "I am furious about the recent decision to allow the continued operation of this malfunctioning terraformer. Its very existence is a disgrace to our Order!\n\nI know it was Vorion who acquiesced to the Shaper's request, so that they could observe the long-term effects of this stationary actuator.\n\nFools! Perhaps I shall throw them all into these volcanic pools, so they can more closely observe the results of this defect!",
+        "source": "Datacube by Zarkonis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Phase Initiation",
+        "content": "The terraforming experiments in this facility are now complete. The Makers have assured me that construction of the Primal Focuses is on schedule, and we will soon embark on the first phase of the Nexus Project.\n\nThis is indeed a glorious day for the Orders. It seems there is truly nothing that we cannot achieve.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }],
+    "Focus Technology: Primal Focuses": [{
+        "order": 1,
+        "headline": "Focused Technology",
+        "content": "I have recently finished the design for the six Primal Focuses that will be located at various locations across planet Nexus.\n\nThese will be essential to completing the first phase of the Project, but I foresee other, more interesting applications for them as well.\n\nI am not one to sing my own praises, but these devices are some of the most advanced pieces of technology that the Eldan have ever created.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }],
+    "Primal Energy: Fire": [{
+        "order": 1,
+        "headline": "Combustible Creation",
+        "content": "With my aid, the Makers have created a machine to create elemental life forms from pure primal fire.\n\nThe infusion process is complicated, and well beyond the often blunt mechanical minds that are characteristic of their order. Regardless, the life forms do display a dangerous beauty.\n\nThe Pell seem especially enamored with them. Perhaps I will share the secrets of their making with our simple servants.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }],
+    "Technology: Plasmic Equalizer": [{
+        "order": 1,
+        "headline": "Protective System",
+        "content": "In response the Archon's request, I have started to design a system that will protect this moon from future asteroid collisions. Although I consider the task to be superfluous at best, given the temporary nature of the experiments we are doing here, I will comply with the Archon's wishes. And I do have some innovative ideas on how to amplify the system’s destructive power...",
+        "source": "Datacube by Zarkonis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Plasmic Equalizer",
+        "content": "Behold the Plasmic Equalizer.\n\nDrawing power from subterranean reservoirs of primal plasmas, the destructive capabilities of this weapon are almost incomprehensible. Without question it can protect this moon from large asteroid impacts, or from invasion by a hostile force - but more than likely it could also completely obliterate Nexus itself.\n\nI am tempted to test my theory.",
+        "source": "Datacube by Zarkonis",
+        "sourcetype": "datacube"
+    }],
+    "Technology: the Caretaker": [{
+        "order": 1,
+        "headline": "Problematic Prototype",
+        "content": "I have constructed an early prototype of an AI construct I am calling \"the Caretaker\". Early tests of its capabilities have been successful, although a number of glitches in its neural architecture often result in systemic network fractures.\n\nDespite these setbacks, the Pell have become very interested in the Caretaker, and I often find them interacting with his various nodes...",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }],
+    "Species: The Skeech": [{
+        "order": 1,
+        "headline": "Cerebral Enhancement",
+        "content": "Ohmna's little Skeech vermin have somehow infested this silo. Nothing infuriates quite like the sight of these little blue pests.\n\nPerhaps I will significantly increase the intelligence of one of their number, and watch what happens as it attempts to reason with its more primitive brethren. I'm certain Ohmna will be absolutely fascinated with the outcome.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Unforgivable Alteration",
+        "content": "Nazrek! That loathsome wretch! I accessed the holorecords which exposed his cruel enhancement of the Skeech known as Lucent.\n\nSuch a tragic end to an innocent victim, torn to shreds by his confused and frightened kinsmen! Does Nazrek’s depravity know any bounds?\n\nMark my words. Lucent will be vindicated.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Benevolent Guardian",
+        "content": "My little Skeech are so interesting! Having witnessed the ongoing slaughter of their kind by the massive, hairy predator to the south of here, many of them have started to worship this large elemental humanoid as a means of protection.\n\nFascinating! Perhaps this is how even we first learned to choose our gods.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Religious Sacrifice",
+        "content": "The extent of Skeech stupidity is truly astonishing. For countless generations they have ventured into this cave in order to worship the massive beast that lives here, and for countless generations they have been devoured by the beast for doing so.\n\nI’m certain my more introspective colleagues might see some kind of comparative allegorical significance in this behavior, but I personally just find it amusing.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }],
+    "Creatures: The Medusas": [{
+        "order": 1,
+        "headline": "Deadly Elegance",
+        "content": "There is an elegant beauty to these organisms rarely seen on the harsh environs of this moon.\n\nAs a result of the reduced gravity here, they have evolved a unique locomotion system not unlike those of aquatic creatures found on the planet’s surface.\n\nAnd I am most impressed by the females. They are larger, more aggressive, and deadlier than their male counterparts.\n\nPerhaps I shall unleash one on Progenitor Nazrek.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }],
+    "Creatures: The Squirg": [{
+        "order": 1,
+        "headline": "Diabolical Creation",
+        "content": "I have engineered a particularly interesting organism that I am calling the squirg. Drawn to the specific frequencies of sentient brain matter, the creature attaches to the victim’s skull in order to nourish itself with cerebral energy.\n\nThe result? The victim is immediately incapacitated, becoming a slave to the squirg as it slowly drains their remaining consciousness.\nTruly diabolical.\n\nI consider it one of my greatest works.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }]
+}

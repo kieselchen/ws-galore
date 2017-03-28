@@ -1,0 +1,28 @@
+[{
+    "label": "Notes of the Eldan",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Grim Warning",
+        "content": "There is a dangerous sort of beauty to this region, with its formidable, towering walls of ice and violent swirling snowstorms.\n\nScientifically, these things can be explained away through their nearness to the Focus of Water - but personally I feel as if they stand as a grim warning about the dangerous experiment that we are about to engage in.",
+        "source": "Datacube by Elyona",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Surface Access",
+        "content": "Readings indicate an intricate network of primal water flows just beneath the ice in this region - exacerbating the already turbulent weather caused by the Focus itself.\n\nOne of those flows draws very near to the surface directly beneath this location - one need only to break through a few feet of ice in order to access an almost pure source of the volatile substance.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Frozen Death",
+        "content": "These trees have had a difficult time withstanding the extreme cold that plagues this region.\n\nI find it tragic, as many of these trees are more than a thousand years old-but the rigors of the Project do not allow me time to intervene. I can only hope they will find a way to survive.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {}, {}, {}, {}, {
+        "order": 2,
+        "headline": "Dangerous History",
+        "content": "The difficulties presented in this region have brought to light an alarming tendency to disregard scientific protocol in pursuit of the Project’s larger goals.\n\nSuch behavior almost led to our destruction in the past, and the Order of Watchers was established to ensure it never happened again. I must once again speak to the Archon.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }]
+}]

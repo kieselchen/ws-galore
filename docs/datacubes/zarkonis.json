@@ -1,0 +1,160 @@
+[{
+        "label": "Technology: Terraforming",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 0: Volcanic Punishment",
+            "content": "I am furious about the recent decision to allow the continued operation of this malfunctioning terraformer. Its very existence is a disgrace to our Order!\n\nI know it was Vorion who acquiesced to the Shaper's request, so that they could observe the long-term effects of this stationary actuator.\n\nFools! Perhaps I shall throw them all into these volcanic pools, so they can more closely observe the results of this defect!",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {
+        "label": "Technology: Primal Plasma",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 0: Protective System",
+            "content": "In response the Archon's request, I have started to design a system that will protect this moon from future asteroid collisions. Although I consider the task to be superfluous at best, given the temporary nature of the experiments we are doing here, I will comply with the Archon's wishes. And I do have some innovative ideas on how to amplify the system’s destructive power...",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }, {
+            "order": 2,
+            "headline": "Phase 0: Plasmic Equalizer",
+            "content": "Behold the Plasmic Equalizer.\n\nDrawing power from subterranean reservoirs of primal plasmas, the destructive capabilities of this weapon are almost incomprehensible. Without question it can protect this moon from large asteroid impacts, or from invasion by a hostile force - but more than likely it could also completely obliterate Nexus itself.\n\nI am tempted to test my theory.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }, {
+            "order": 3,
+            "headline": "Phase 1: Violent Applications",
+            "content": "The incomparable purity of primal plasmas on Nexus creates a number of interesting possibilities.\n\nBy harnessing the power of these often volatile substances, I have created a working prototype of the Plasmatic Cannon.\n\nThe Archon, contrary to his usual inability to see my genius, seemed very interested in the weapon, hinting that there might be a use for something like it in the near future...",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {
+        "label": "Technology: Annihilator Construction",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 1: Lethal Construct",
+            "content": "The Order of the Makers has designed a planet-wide defense system to ensure the ongoing security of the Project, and this Annihilator construct is one if its most impressive manifestations.\n\nThe sheer destructive power of this machine is extraordinary. Personally, I hope that a situation arises that would allow me to observe its capabilities.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {
+        "label": "Technology: Nanites",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 1: Skeletal Catalyst",
+            "content": "Our experiments here can be counted a success. It appears that the omni-plasmic nanites are sufficiently intelligent to reanimate and enhance the skeletal remains of long-dead organisms.\n\nAs expected, these creatures are significantly less intelligent than their living counterparts, but they are still deadly... and pleasantly macabre.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {
+        "label": "Creatures: The Terminites",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 1: Fail-Safe Mechanism",
+            "content": "Given the danger posed by a possible surface infestation of these terminites, I have created a fail-safe mechanism to immolate the queen – violently and decisively interrupting the central hive’s reproductive cycle. I sincerely hope I have reason to test the system’s capability.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {
+        "label": "Project: The Elderoot Initiative",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 1: Energetic Organism",
+            "content": "Creating sentience from primal life is an important aspect of the Elderoot Initiative.\n\nBy constructing these primal infusers, I have been able to create a stable physiological matrix around an advanced power core, resulting in an organism that is created from pure energy.\n\nThe success of this experiment bodes well for the larger goals of the Nexus Project.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {
+        "label": "Technology: Augmentation",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 2: Promising Prototype",
+            "content": "I have studied Vorion’s little pet, and even I must admit that his augmentation process is impressive. By merely injecting an organism with nanite-infused omni-plasm, he has been able to cybernetically enhance their inherent biological traits. As a result, this spider is faster, more aggressive, and deadlier. But this process takes time, and time is not always a luxury we enjoy. I am currently developing a more rapid process for biomechanical re-engineering...",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }, {
+            "order": 2,
+            "headline": "Phase 2: Scientific Reanimation",
+            "content": "This tar pit is the perfect location for my own experiments in augmentation technology. Although Vorion has successfully augmented living creatures, I am extremely interested in observing how the omni-plasmic nanites will respond to inanimate tissue. I’m certain the results will be monstrously fascinating.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {
+        "label": "Technology: Recombination",
+        "entries": [{
+            "order": 1,
+            "headline": "Phase 2: Traumatic Replacement",
+            "content": "I am very close to perfecting my recombination technology! Instead of utilizing nanites to build biomechanical constructs, my Recombinator removes the target limbs and organs, and then directly replaces them with mechanical constructs.\n\nGranted, the process is violent, traumatic, and bloody – and at this stage the resultant creatures are physiologically unstable – but I still feel as if this is a marked improvement over Vorion’s augmentation technology.\n\nAnd the accusation of Ionis that this is somehow a personal obsession driven by my sense of inadequacy? Preposterous!",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }, {
+            "order": 2,
+            "headline": "Phase 2: Recombination Chamber",
+            "content": "The Archon continues to disappoint me with his shortsightedness. My Recombination Chamber is a vastly superior alternative to omni-plasmic augmentation. True, most subjects do not survive the process, and those that do are often physically and psychologically scarred. But these are mere details! I regret that I will not be able to continue this innovative research.",
+            "source": "Datacube",
+            "sourcetype": "datacube"
+        }]
+    }, {
+        "label": "Facility: Star-Comm Station",
+        "entries": [{
+                "order": 1,
+                "headline": "Phase 2: Advanced Transmission",
+                "content": "Star-Comm Station is one my most elegantly designed facilities; a powerful communications device that allows us to securely send massive amounts of scientific data across the vastness of space without fear of signal loss or interruption. Given the importance of the information that we will soon transmit, my extensive efforts in its design and construction were undoubtedly justified.",
+                "source": "Datacube",
+                "sourcetype": "datacube"
+            }, {
+                "label": "Technology: The Elder-Cube",
+                "entries": [{
+                    "order": 1,
+                    "headline": "Phase 4: Neural Download",
+                    "content": "As a final precaution, I have installed a neural transfer algorithm into the Elder Cube. This will allow it to choose an acceptable organic host, and then download the totality of its information into the host’s brain. In the case of a catastrophic event on Nexus, this might be the only way that the truth of what we are about to achieve is preserved.",
+                    "source": "Datacube",
+                    "sourcetype": "datacube"
+                }]
+            }, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+            /*
+            {
+                            "order": "zarkonis",
+                            "headline": "TODO Amplified Hostility",
+                            "content": "It appears that my recent modifications to the omni-plasmic nanites have not been well-received. I amplified aggression protocols, resulting in an exponential increase in hostile behavior. Personally, I feel as if this was an improvement, but the Archon was not amused when one of the augmented test subjects attacked him. Short-sighted buffoon! He has ordered the facility to be sealed indefinitely.",
+                            "source": "Datacube",
+                            "sourcetype": "datacube"
+                          },{
+                            "order": "zarkonis",
+                            "headline": "TODO Biomechanical Advancement",
+                            "content": "Metal Maw’s entire skeleton has been reinforced with an indestructible alloy, and propulsion engines are mounted to each of its forelimbs. An advanced neural core within its reinforced skull biomechanically controls Metal Maw’s nervous system, and cerebral circuitry forces the organism into a state of perpetual pain and aggression during combat-a physiological cycle that only ends when his enemies are completely destroyed.",
+                            "source": "Datacube",
+                            "sourcetype": "datacube"
+                          },{
+                            "order": "zarkonis",
+                            "headline": "TODO Blinding Genius",
+                            "content": "Finally, my achievements have been recognized! Today the Archon asked me if I was interested in being one of the vessels for the Genesis Prime. Perhaps my opinion of him has been incorrect. He obviously recognizes that my intellect is considerably greater than the others in my Order – such as Vorion, for example. When I proceeded to tell him so, the Archon stood silently before me, and then walked away. Rendered speechless in the blinding light of my genius! I almost pitied the poor fool.",
+                            "source": "Datacube",
+                            "sourcetype": "datacube"
+                          },{
+                            "order": "zarkonis",
+                            "headline": "TODO Cybernetic Perfection",
+                            "content": "My initial experiments with nano-technological enhancement have been extremely promising. I see almost unlimited potential in this technology, if indeed I am able to harness its power. I must work harder. This creature is an early, imperfect manifestation of the process.",
+                            "source": "Datacube",
+                            "sourcetype": "datacube"
+                          },{
+                            "order": "zarkonis",
+                            "headline": "TODO Deranged Descent",
+                            "content": "I recently had a conversation with Watcher Ionis about what can only be described as Vorion’s recent descent into madness. His obsession with his recent work is obviously his way of coping with my being chosen as one of the vessels for the Genesis Prime. Still, despite his mental instability, even I cannot find fault with his latest advances. But that is not for lack of trying! Can we truly trust such important work to an individual so clearly deranged?",
+                            "source": "Datacube",
+                            "sourcetype": "datacube"
+                          },{
+                            "order": "zarkonis",
+                            "headline": "TODO Destructive Conclusion",
+                            "content": "The Archon has once again called upon my superior intellect. As the conclusion of the Nexus Project approaches, the Archon feels as if this facility requires even greater security than our already formidable systems provide. As this may indeed be my last project before my imminent ascension to greatness, I plan to design a weapon of such size and destructive power that it will ensure my place in the annals of galactic history.",
+                            "source": "Datacube",
+                            "sourcetype": "datacube"
+                          },{
+                            "order": "zarkonis",
+                            "headline": "TODO Exotic Amplifier",
+                            "content": "I did not think it possible, but I have created a weapon system that is worthy of my inconceivably vast intellect. Although I rarely divulge the secrets behind my engineering genius, in this case I will make an exception. After speaking with the Shapers, I became aware of a fairly significant vein of exanite beneath here – and I’ve used it to amplify the cannon’s destructive output. The result is almost frightening.<p>There may be nothing in the known universe that could withstand its virtually immeasurable power.</p>",
+                            "source": "Datacube",
+                            "sourcetype": "datacube"
+                          }
+            */
+            * / * / * / * /

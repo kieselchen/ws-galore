@@ -1,0 +1,22 @@
+[{
+    "label": "Notes of the Eldan",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 0: Problematic Prototype",
+        "content": "I have constructed an early prototype of an AI construct I am calling \"the Caretaker\". Early tests of its capabilities have been successful, although a number of glitches in its neural architecture often result in systemic network fractures.\n\nDespite these setbacks, the Pell have become very interested in the Caretaker, and I often find them interacting with his various nodes...",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {}, {}, {}, {}, {
+        "order": 2,
+        "headline": "Artificial Intelligence",
+        "content": "The Caretaker is one of my greatest creations, a fabricated sentience whose intelligence is almost without limit.\n\nSuch power allows him to monitor and control all aspects of the Project simultaneously, although I do fear that a catastrophic event could lead to a critical fracturing of his personality core.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "System Fractures",
+        "content": "The Caretaker construct created by the Makers is extremely impressive, but my observations into its creation have revealed what may be a serious design flaw.\n\nAlthough the size and scope of the Project requires that the Caretaker’s personality architecture supports multiple avatars working in concert, it also opens the possibility of fractures in the case of system failure.\n\nThis could lead to unproductive, even violent competition between the avatars in certain circumstances.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }]
+}]

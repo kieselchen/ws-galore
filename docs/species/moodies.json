@@ -1,0 +1,40 @@
+[{
+    "label": "Notes of the Eldan",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Future Improvement",
+        "content": "These small bipeds are little more than an annoyance. Their creation of ritual masks - which seem to indicate both mood and social structure - is of little interest to me.\n\nBut perhaps there are some improvements that I can make upon their base design.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Protocol Breach",
+        "content": "Despite the objections of his Order, Progenitor Nazrek has made a number of enhancements to these so-called Moodies.\n\nCertain individuals now display an inherent skill in evocation, allowing them to reanimate their dead. Nazrek’s questionable choices will be noted.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Necromantic Modification",
+        "content": "These Moodies have become so much more interesting since I re-engineered them. With their new skills in necromantic evocation, they are able to reanimate their dead, as well as the corpses of local creatures.\n\nSome of my colleagues consider this modification both grisly and unnecessary. Perhaps I will improve upon them next.",
+        "source": "Datacube  by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "TODO Prohibited Variable",
+        "content": "Interesting. These organisms did not arise here, but instead were created by one of the Progenitors and then subsequently scheduled for termination.\n\nI will have to report this infraction to the Archon. Such emotional tendencies will lead to the Project’s failure if they cannot be contained.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "TODO Frivolous Diversion",
+        "content": "My previous modification of the Moodies has not been well received by my colleagues nor by the swollen-headed simpleton that parades as our Archon. Because of this, he has not so politely asked me to limit the practice of my \"frivolous hobbies\" on this remote island. Although I find his accusations both insulting and completely baseless, I must admit that I am looking forward to this little diversion.\n\nI have brought a few of my modified Moodies to share in the fun.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+        "order": 6,
+        "headline": "TODO Skullcano Island",
+        "content": "My project is complete! This terraformer now successfully turns lava into gold, providing the primitive Moodies below with a divine metal for them to covet - and one that may be extremely difficult for them to obtain.\n\nThis, along with the horrifying monstrosities below, should provide the Moodies with a rich, cultural mythology that will undoubtedly lead to thousands of their descendants perishing painfully as they attempt to reach the treasures that lie in the sacred heights of this cavern.\n\nNow... let the drama of Skullcano Island commence! Oh, I should have done this a long time ago...",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }]
+}]

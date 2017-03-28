@@ -1,0 +1,30 @@
+$background-color: #050b19;
+$font-color: #afaeac;
+$headline-color: #e8d6a8;
+$subline-color: #beb397;
+$link-color: #29BCD9;
+$hover-color: #21759b;
+$border-color: #2F5160;
+
+@mixin boxshadow {
+    position:relative;
+    box-shadow:0 1px 4px $border-color, 0 0 40px $border-color;
+
+    &:before, &:after
+    {
+        position:absolute;
+        z-index:-1;
+        box-shadow:0 0 20px $border-color;
+        top:10px;
+        bottom:10px;
+        left:0;
+        right:0;
+        border-radius: 100px / 10px;
+    }
+    &:after
+    {
+        right:10px;
+        left:auto;
+        transform:skew(8deg) rotate(3deg);
+    }
+  }

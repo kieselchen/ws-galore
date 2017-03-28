@@ -1,0 +1,232 @@
+[{
+    "label": "Technology: Terraforming",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 0: Impact Concerns",
+        "content": "As we near the first phase of the Project, this moon of Halon has served as the ideal location to perfect our large-scale terraforming technology.\n\nUnfortunately, debris from the previous catastrophe on Halon still falls to the moon’s surface, putting our scientific endeavors here at risk.\n\nI must speak to the Makers about a solution to this problem.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 0: Phase Initiation",
+        "content": "The terraforming experiments in this facility are now complete. The Makers have assured me that construction of the Primal Focuses is on schedule, and we will soon embark on the first phase of the Nexus Project.\n\nThis is indeed a glorious day for the Orders. It seems there is truly nothing that we cannot achieve.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Biological Variety",
+        "content": "I continue to be impressed by our progress. The sheer variety of life forms that have arisen here far exceed even our most conservative projections, indicating that Nexus will indeed provide a suitable location for achieving the ultimate goals of the Project.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Phase 1: Evolutionary Impact",
+        "content": "This region displays a stunning array of biological diversity, a result of the accelerated evolutionary forces unleashed during the Project’s first phase.\n\nThe Shapers are deploying a terraformer to the east, and I am curious to see what effect the device will have on these organisms.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Phase 1: Masterful Achievement",
+        "content": "There are times when I gaze down upon the majesty of the planet’s surface, and wonder at all that we have achieved in so little time. To the uninformed observer, this place would merely appear as an unassuming world at the edge of the galaxy, but only we know the secrets of what lies beneath its placid facade.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Focus Technology: Air",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Incomparable Power",
+        "content": "The Focus of Air represents one of the Eldan’s greatest technological achievements, its scale and complexity almost impossible to comprehend.\n\nI was there to witness its sheer power at the genesis of this Project, and it is a sight I will never forget.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Focus Technology: Water",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Extreme Concern",
+        "content": "Due to its proximity to the Focus of Water, this region is a study in extremes. Rainstorms are often followed closely by snowfall, with sudden changes in temperature that only the hardiest organisms survive.\n\nMy concerns for the success of the Hydris Protocols are stronger than ever.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Primal Energy: Air",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Violent Tempest",
+        "content": "Our research here has been enlightening. By harnessing the power of loftite crystals, this tower has created a violent storm.\n\nThe sheer power unleashed has exceeded our expectations, indicating that we will reach the final stage of the Project.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Technology: Annihilator Construction",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Project Security",
+        "content": "The importance of our work requires that we have extraordinary security, and this Annihilator is an impressive facet of a nearly perfect system.\n\nWe must ensure that nothing threatens the success of the Project, whether from outside the planet, or from within...",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Species: The Pell",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Religious Devolution",
+        "content": "I have read the reports concerning the Pell’s recent behavioral transformation - but I had not realized the true impact of the changes until I saw this building that they recently constructed without our knowledge.\n\nI can only describe it as some kind of religious temple, devoted to some undefined aquatic deity that a number of them have begun to worship.\n\nI have been assured that this does not represent a threat to the success of the Project, but I personally find their strange devolution a point of concern.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Species: The Osun",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Formidable Construction",
+        "content": "The city of Kel Voreth is perhaps the most impressive example of architecture and engineering that the OS-1s have ever produced.\n\nSince their creation, they have made rapid technological advancements that exceed even our most conservative estimates. Soon they will be an unstoppable military force.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Technology: The Elder Cube",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 2: Manual Override",
+        "content": "I have requested that the Makers install a manual override for the Elder Cube’s security systems.\n\nAlthough such a crude technological solution is rarely necessary, it would be unforgivable if the information which describes our monumental achievement here on Nexus was rendered completely inaccessible due an unforeseen catastrophic event.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 4: Cube Security",
+        "content": "The construction of the Elder Cube security facility is almost complete.\n\nGiven the incalculable value of the data that it contains, this facility has been built to protect the device in the case of a security breach at Star-Comm Station.\n\nI have also requested that the access to the complex below be extremely limited. Only myself and a few others will even know where the entrance is hidden.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {
+    "label": "Species: The Pell",
+    "entries": [{
+        "order": 2,
+        "headline": "TODO Divine Incubation",
+        "content": "The Incubator is now complete, and the Pell test subject has been prepared for primal infusion.\n\nWith this experiment, I feel as if we are boldly venturing into an unexplored abyss - shattering the boundaries of science as we pursue our great work here on Nexus. I would never tell the others this, but I truly believe that divinity is finally within our grasp.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Genesis Prime",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Genesis Prime",
+        "content": "With the successful conclusion of the Vitara Protocols, we have obtained the necessary knowledge to achieve the final phase of the Nexus Project.\n\nTo think, soon we will create a being of unfathomable power, one that will have the power to manipulate the very fabric of the universe itself.\n\nSoon our vision of perfection will come to pass.\n\nSoon, we shall witness the birth of the Genesis Prime.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "TODO Visionary Decision",
+        "content": "The six have now been chosen: \n* Nazrek, \n* Zarkonis,\n* Bathior,\n* Aviel,\n* Ionis and myself.\n\nMy decision to be included in this group has been met with some bewilderment - however subtle - by the Orders, and I have heard whispers that I have only done so to indulge some inherent sense of self-importance.\n\nOf course, this is nothing of the sort. If the six are to represent our greatest minds, then it is only logical that I, the bold leader and visionary of the Nexus Project, would be included among them.\n\nThe time is now at hand. Soon, the six shall become one, and the universe shall witness the coming of a new god.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Nexus Project",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO The Nexus Project",
+        "content": "The Nexus Project. Without question, this is the most significant scientific endeavor in galactic history, representing the penultimate achievement of the Eldan intellect.\n\nIf indeed we reach our final goal, then the fate of our people, even that of the universe itself, will be irrevocably changed.\n\nThe data generated by the Project will be vast and invaluable, and it is within the Elder Cube that all of our secrets here on Nexus will be contained.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "TODO Nexus Project",
+        "content": "The time has finally come. As the Nexus Project begins, we embark on the greatest scientific experiment in the long history of our people.\n\nAnd if we are successful? Then we will have achieved what others have only dreamed of. We will have altered the destiny not just of the Eldan, but of the universe itself.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "TODO Beyond Science",
+        "content": "As we near the first phase of the Nexus Project, I recently called an assembly of the Orders.\n\nI thought that it was important to once again convey the gravity of what we are trying to accomplish here.\n\nI told them that this is no longer about science or technology. Our work on this planet is something greater. It is something truly divine.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 6,
+        "headline": "TODO Universal Perfection",
+        "content": "Although we have had a number of difficulties in the early phases of the Project, I cannot help but still be amazed at the progress we are making towards our ultimate goal.\n\nTo think that soon we will have the power to perfect nature itself, to correct the mistakes of an inherently flawed universe.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Projects: The Osiric Protocols",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 2: Creature Genesis",
+        "content": "The Makers have assured me that the Focus of Air can theoretically be used for the Osiric Protocols, although I find it hard to believe that the test subject will survive exposure to such tremendous levels of primal energy.\n\nWhat unimaginable creature will step forth when the process is complete?",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Hydris Protocols",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 2: Unpredictable Outcome",
+        "content": "As we near the execution of the Hydris Protocols, I must admit that I have grave concerns about the selection of Yuria.\n\nAlthough the Evokers are generally obtuse and unpredictable, Yuria’s particular instabilities are extreme.\n\nI understand she was chosen for exactly this reason, but I fear that something terrible is on the horizon.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 2: Tragic Outcome",
+        "content": "The tragedy of the conclusion of the Hydris Protocols cannot be overstated.\n\nAlthough we extracted the necessary data in order to proceed to the next stage of the Nexus Project, the Focus of Water has been irreparably damaged, and the test subject has disappeared into the deeps.\n\nStill, we must press on. Our greatest work still lies before us.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Facility: The Techno-Core",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 4: Tighter Control",
+        "content": "I have just completed my survey of Maker Vorion’s advanced technological laboratories, and I must say that they are nothing short of incredible.\n\nAs we near the completion of the Nexus Project, Vorion believed that tighter control and security of all Eldan technology on planet Nexus was of utmost importance, and he has achieved his goal.\n\nThis tower controls access to the facility below. Not surprisingly, access is limited to a very few individuals.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "The Caretaker",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Virtual Perfection",
+        "content": "As a virtual construct, the Caretaker is unequaled in all of our history.\n\nIts advanced neural core simulates complex cognitive thought process and intuition, allowing it to closely monitor and maintain all of our experiments here on Nexus.\n\nWe must ensure it never experiences a critical failure.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Projects: The Luminai Project",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 3: Cassian Initiative",
+        "content": "After long discussions among the Orders we have decided to move forward with the Cassian Initiative.\n\nThey are sufficiently advanced to have warranted our attention, and analysis indicates that they will be the perfect leaders for our new empire; one that will rule the galaxy until our great work here on Nexus is complete.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 1,
+        "headline": "Phase 3: Luminai Completion",
+        "content": "The Luminai Project is finally complete. By extracting the primal pattern of the human Tresayne Toria, and combining it with my own, we have created a completely unique hybrid that represents the best parts of both species. This individual, which we have named Dominus, will soon travel to planet Cassus, where he will establish a powerful galactic Dominion that we will control.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 3: Luminous Hybrid",
+        "content": "The creation of the Luminai by the Progenitors is a true milestone in the history of the Project. Aside from being the first successful hybrid with an extraterrestrial species, it also represents the genesis of a powerful empire that will extend beyond the confines of this world.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 3: Severe Measures",
+        "content": "The recent destruction of the Cassian vessel was tragic, although completely necessary for the ongoing security of the Project.\n\nIt was made abundantly clear to the humans that they were never to attempt escape from Nexus, and that such an attempt would result in severe consequences.\n\nIn hindsight, we may have considered disabling their ship, but the event should serve as a poignant example for those who remain.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Moodies",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Covert Investigation",
+        "content": "Although I generally respect Nazrek and his work, his latest pet project on this island has me a bit confused.\n\nDuring my survey of his work, he described the not insignificant dangers that exist in this canyon.\n\nWhen I asked about their purpose, he merely replied that “the supplicants must be tested.” Before leaving, I recommended that he get more rest.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}]

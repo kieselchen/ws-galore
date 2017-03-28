@@ -1,0 +1,16 @@
+[{
+    "label": "Notes of the Eldan",
+    "entries": [{
+        "order": 1,
+        "headline": "Mesmerizing Distraction",
+        "content": "It is easy to be mesmerized by the beauty of this place, by the natural wonders that surround us at every turn.\n\nBut we must never forget exactly what we are trying to achieve here -and the inherent dangers that await us if indeed the Project is successful.",
+        "source": "Datacube by Elyona",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Tragic Monument",
+        "content": "These massive skeletons belong to creatures that are no longer found on the planet’s surface. Undoubtedly, they existed during the Project's first phase.\n\nAlthough their rise and subsequent extinction were inevitable, I still find it tragic that such magnificent beasts were not able to survive.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }]
+}]

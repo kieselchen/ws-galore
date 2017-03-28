@@ -1,0 +1,16 @@
+[{
+    "label": "Notes of the Eldan",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Geological Strata",
+        "content": "The sheer geological variety on the surface of the planet is awe-inspiring, a testament to the titanic forces unleashed during its formation. The more time I spend here, the harder it is to imagine the planet’s fate once we have achieved the ultimate goals of the Project.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Subterranean Descent",
+        "content": "The structure and complexity of these subterranean caverns far exceeds my expectations. I have wandered them for days now, and it seems there is no end to them.\n\nAnd I must admit, there are times I would rather stay down here than to witness those things taking place on the surface…",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    }]
+}]

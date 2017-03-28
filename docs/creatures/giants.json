@@ -1,0 +1,16 @@
+[{
+    "label": "Notes of the Eldan",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Forest Defenders",
+        "content": "These large hybrid humanoids have evolved an extra-sensory perception of the forest’s collective life force, resulting in altruistic behaviors focused on protecting it from harm.\n\nTheir size and strength, as well as their aggression when provoked, make them formidable guardians.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "TODO Unexpected Success",
+        "content": "Although many of our experiments in this region have met with failure, the giant humanoids below are a welcome exception. Through a careful program of subtle infusion, we were able to enhance the creature using pure primal water.\n\nAlthough prone to fits of violence, the resultant organism is otherwise stable and more fit for survival in this unpredictable environment.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }]
+}]

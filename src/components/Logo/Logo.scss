@@ -1,0 +1,22 @@
+.logo {
+	margin-bottom: 10px;
+}
+
+@media (min-width: 605px) {
+    .logoLarge {
+        display: block;
+        width: 570px;
+    }
+    .logoSmall {
+        display: none;
+    }
+}
+
+@media (max-width: 604px) {
+    .logoLarge {
+        display: none;   
+    }
+    .logoSmall {
+        display: block;
+    }
+}

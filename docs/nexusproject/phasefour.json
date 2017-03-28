@@ -1,0 +1,160 @@
+{
+    "Technology: The Elder Cube": [{
+        "order": 1,
+        "headline": "Cognitive Influence",
+        "content": "It has come to my attention that the Elder Cube was engineered with a low-level neural matrix, imbuing it with simple cognitive capabilities. This allows it to make simple decisions as they relate to its own security, but it also has another unexpected result.\n\nLower-level life forms, such as our servants the Pell, could possibly be influenced or even controlled by the Cube itself if left too long in its presence.\n\nI will raise my concerns to the Archon - but I fear that at this stage of the Project, they will more than likely be ignored.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Cube Security",
+        "content": "The construction of the Elder Cube security facility is almost complete.\n\nGiven the incalculable value of the data that it contains, this facility has been built to protect the device in the case of a security breach at Star-Comm Station.\n\nI have also requested that the access to the complex below be extremely limited. Only myself and a few others will even know where the entrance is hidden.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Neural Download",
+        "content": "As a final precaution, I have installed a neural transfer algorithm into the Elder Cube. This will allow it to choose an acceptable organic host, and then download the totality of its information into the host’s brain. In the case of a catastrophic event on Nexus, this might be the only way that the truth of what we are about to achieve is preserved.",
+        "source": "Datacube by Zarkonis",
+        "sourcetype": "datacube"
+    }],
+    "Facility: The Techno-Core": [{
+        "order": 1,
+        "headline": "Impermeable Defense",
+        "content": "I have done it! By synchronizing the algorithmic matrices of our digital languages, I have created an impermeable, encrypted layer of security for the Project’s technology on Nexus. Now all of our facilities and constructs will be safe from outside sources of invasion or corruption. Only I know the sequence to unlock the encryption, and I am currently engineering an advanced device to store it for all eternity.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "The Techno-Core",
+        "content": "Behold! The Techno-Core! Built to store and protect the encryption for our technological security layer, it recalculates the formula in multi-dimensional phase space every nanosecond while simultaneously re-encrypting the derived values using the ever-shifting quantum structure of the device itself.\n\nThe resulting encryption is literally unbreakable. Our technology will forever be secure.\n\nI am the only individual in the universe with the knowledge to access the device, and nothing in existence could compel me to compromise its security.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Tighter Control",
+        "content": "I have just completed my survey of Maker Vorion’s advanced technological laboratories, and I must say that they are nothing short of incredible.\n\nAs we near the completion of the Nexus Project, Vorion believed that tighter control and security of all Eldan technology on planet Nexus was of utmost importance, and he has achieved his goal.\n\nThis tower controls access to the facility below. Not surprisingly, access is limited to a very few individuals.",
+        "source": "Datacube by Jariel",
+        "sourcetype": "datacube"
+    }],
+    "Technology: Augmentation": [{
+        "order": 1,
+        "headline": "Unstable Mind",
+        "content": "I have recently become concerned with Maker Vorion’s state of mind.\n\nWith the completion of these technological laboratories, he spends more and more of his time deep underground, whispering to himself about his technological creations and even more advanced future designs.\n\nHe can often be found in this augmentation complex. On more than one occasion I have heard him speaking to the augmented subjects as if they were his pets.",
+        "source": "Datacube by Ionis",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Infallible Perfection",
+        "content": "I am not deaf to the whispers among my colleagues. They believe I have become unhinged, dangerously obsessed with my work in this facility.\n\nPerhaps they are correct... but has there ever been a greater reason for obsession? We approach what may be the most important event in the history of the universe itself, and my understanding and control of the technological mechanisms involved must be infallible!\n\nI will accept nothing less than perfection, and none will stand in my way!",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }],
+    "Technology: The Caretaker": [{
+        "order": 1,
+        "headline": "",
+        "content": "",
+        "source": "Datacube by ",
+        "sourcetype": "datacube"
+    }],
+    "Technology: The Primal Disintegrator": [{
+        "order": 1,
+        "headline": "",
+        "content": "",
+        "source": "Datacube by ",
+        "sourcetype": "datacube"
+    }],
+    "Facility: The Datascape": [{
+        "order": 1,
+        "headline": "",
+        "content": "",
+        "source": "Datacube by ",
+        "sourcetype": "datacube"
+    }],
+    "Facility: The Lightspire": [{
+        "order": 1,
+        "headline": "",
+        "content": "",
+        "source": "Datacube by ",
+        "sourcetype": "datacube"
+    }],
+    "Evolution Malgrave": [{
+        "order": 1,
+        "headline": "Spectral Echoes",
+        "content": "As per the request of the Progenitors, I have installed a number of Matrix Amplifiers in this region. These devices should hyper-accelerate the physiological development of local creatures, increasing their size exponentially, but they might also have an interesting side effect.\n\nAs the strength and density of the life matrix increases, the primal patterns of nearby organisms could hypothetically be imprinted as well - resulting in \"spectral echoes\" that would persist long after the organisms themselves had perished.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }],
+    "Projects: The Remanifestation Initiative": [{
+        "order": 1,
+        "headline": "",
+        "content": "",
+        "source": "Datacube by ",
+        "sourcetype": "datacube"
+    }],
+    "Projects: The Genesis Prime": [{
+        "order": 1,
+        "headline": "",
+        "content": "",
+        "source": "Datacube by ",
+        "sourcetype": "datacube"
+    }],
+    "Facility: The Genetic Archives": [{
+        "order": 1,
+        "headline": "Phase 4: Genetic Archives",
+        "content": "The facility below serves as the Genetic Archives for the Nexus Project, a vast storage repository that contains the genetic information from billions of organisms from across the galaxy.\n\nIt has been of great use to us in the creation of the Genesis Prime, and must be protected at all costs. There are dangerous things that might be done with such a trove of knowledge.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    }]
+}
+[{
+    "label": "Genesis",
+    "headline": "Difficult Choice",
+    "headline": "Genesis Prime",
+    "headline": "Unintended Results",
+    "headline": "Blinding Genius",
+    "headline": "Geological Irony",
+    "headline": "Irrefutable Rationality",
+    "headline": "Logical Selection",
+    "headline": "Potential Candidate",
+    "headline": "Radical Deviation",
+    "headline": "Expected Opportunity",
+    "headline": "Unalterable Impression",
+    "headline": "Visionary Decision",
+    "headline": "Covert Adjustment",
+    "headline": "Deranged Descent",
+    "headline": "Project Success",
+    "headline": "Protoplasmic Resonator",
+    "headline": "Mysterious Agreement",
+    "headline": "Fatal Deviation",
+    "headline": "Desperately Powerless",
+}]
+}, {
+    "label": "Drusera",
+    "headline": "Behavioral Anomalies",
+    "headline": "Exhilarating Event",
+    "headline": "Negative Consequences",
+    "headline": "Prime Creation",
+    "headline": "Remarkable Creature",
+    "headline": "Surface Sanctuary",
+    "headline": "Unusual Capabilities",
+}]
+}, {
+    "label": "Strain",
+    "headline": "Ineffectual Defense",
+    "headline": "Uncatalogued Agent",
+    "headline": "Unresolved Incident",
+}]
+}, {
+    "label": "Entity",
+    "headline": "Incalculabe Risk",
+    "headline": "Primal Disintegrator",
+    "headline": "Entity Awakened",
+    "headline": "Unwise Discussion",
+}]
+}, {
+    "label": "Avatus",
+    "headline": "Security Upgrade",
+    "headline": "Enhanced Functionality",
+    "headline": "Self-Sacrifice",
+}]

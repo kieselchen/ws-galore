@@ -1,0 +1,18 @@
+.wrapper {
+  margin: 0 auto;
+  overflow: auto;
+  padding: 0 10px;
+  width: 1280px;
+}
+
+.pageHeader {
+  margin: 0;
+  width: 100%;
+}
+
+@media all
+and (max-width: 1300px) {
+    .wrapper {
+        width: 100%;
+    }
+}

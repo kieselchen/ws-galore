@@ -1,0 +1,313 @@
+[{
+    "label": "Species: The Skeech",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 0: Unforgivable Alteration",
+        "content": "Nazrek! That loathsome wretch! I accessed the holorecords which exposed his cruel enhancement of the Skeech known as Lucent.\n\nSuch a tragic end to an innocent victim, torn to shreds by his confused and frightened kinsmen! Does Nazrek’s depravity know any bounds?\n\nMark my words. Lucent will be vindicated.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 0: Benevolent Guardian",
+        "content": "My little Skeech are so interesting! Having witnessed the ongoing slaughter of their kind by the massive, hairy predator to the south of here, many of them have started to worship this large elemental humanoid as a means of protection.\n\nFascinating! Perhaps this is how even we first learned to choose our gods.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {}, {}, {}, {}, {
+        "order": 3,
+        "headline": "TODO Imminent Conflict",
+        "content": "I am furious! My beautiful little Skeech females-horribly twisted into these monstrous abominations! I have studied the nature of the change, and I know that Nazrek was responsible.\n\nThe insolence! If he thinks I will stand for this, he is sorely mistaken.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "TODO Scheduled Termination",
+        "content": "The Archon has commanded me to destroy the last of my little Skeech, but I cannot bring myself to do so. Is it their fault that I created them to be curious? Indeed not.\n\nStill, I must follow the Archon’s order. I will release them into this cave, and surely this unforgiving planet will do the deed for me",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Species: The Pell",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Unnatural Interest",
+        "content": "The Pell seem to have taken a keen interest in the outcome of the upcoming experiment, one that sounds less like science and more like religious fervor.\n\nI fear that we have done our faithful servants irreparable harm in our experiments here. I can only hope that we achieve success...",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Species: The Dreg",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Piteous Existence",
+        "content": "Much to my surprise, I recently discovered this tribe of humanoids living upon these arid wastes.\n\nAn analysis of their physiology shows that they share numerous traits with Nazrek’s humanoid template - although high levels of biological mutation within the group would seem to indicate that these individuals are descended from early, failed prototypes. I find them... piteous, in a way.\n\nPrimitive, savage, and brutal, these Dregs have never known anything but rejection and pain.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Species: The Osun",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Rapid Development",
+        "content": "I am very pleased with the status of the OS-1 experiment.\n\nThe rapid development of their civilization is a testament to their strength and intelligence, although even I must admit that they are progressing at an alarming rate. Although they both fear and revere us, we must be careful to maintain control.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Design Disturbance",
+        "content": "The Makers continued efforts to perfect this augmentation technology is disturbing. As if their tiny machines could possibly be an improvement on focused biological design.\n\nPerhaps they should visit the OS-1 city to the south. Could their cybernetic monstrosities ever construct such an impressive monument?",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Creatures: The Medusas",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 0: Deadly Elegance",
+        "content": "There is an elegant beauty to these organisms rarely seen on the harsh environs of this moon.\n\nAs a result of the reduced gravity here, they have evolved a unique locomotion system not unlike those of aquatic creatures found on the planet’s surface.\n\nAnd I am most impressed by the females. They are larger, more aggressive, and deadlier than their male counterparts.\n\nPerhaps I shall unleash one on Progenitor Nazrek.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Species: The Falkrin",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Unexpected Survival",
+        "content": "I am very surprised that AV-3 has thrived on Nexus, especially given the fact that we released them so quickly into the wild. Most test organisms are not so resilient.\n\nThe Weavers would say that primal air gives them strength and power, but I personally feel that it is a testament to my own elegant design.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Discarded Prototype",
+        "content": "Now this is an unexpected surprise. These early AV-3 prototypes have survived, and now call themselves the \"Murgh\".\n\nMy records indicate they were scheduled for termination based on defects in their design, but it looks as if they escaped into the wild and are now subservient to the Falkrin.\n\nPerhaps we have less control here than we truly believe.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Envious Illusion",
+        "content": "Ah, these Falkrin! My dear AV-3s! Such things they have achieved in the centuries since I first engineered them.\n\nWho would have guessed that they would eventually construct such impressive cities, or would someday worship a winged god created by our own hands? Do they understand what has actually taken place here? And what would they think if they knew what was soon to come?\n\nI envy them. They still exist under the comfortable illusion that their lives represent more than a means to an end.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Phase 2: Avian Origins",
+        "content": "The evolution of the Falkrin continues to amaze me, having released the initial prototypes into the wild after data collection. They were not expected to survive, but instead they have flourished into a successful, albeit primitive, civilization.\n\nTheir recent worship of Osiric introduces... complexities... into their ongoing development.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Creatures: The Girrok",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Beneficial Adaptation",
+        "content": "These large predators have adapted well to the extreme changes in weather caused by the Focus of Water, thriving where other organisms have failed.\n\nThe frozen remains of the giant beast that previously inhabited this cave serve as a poignant reminder that survival is about more than size or strength.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Creatures: The Xenobites",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Decelerated Gestation",
+        "content": "These Xenobites are one of my most elegant creations. They can survive in decelerated gestation for hundreds of years, only emerging from their eggs if their safety is threatened.\n\nMy little pet Skeech seems fascinated with them, and I often find her watching over the egg clusters from afar.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Creatures: The Buzzbings",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Unchecked Infestation",
+        "content": "Without any true natural predators, these insects are beginning to spread rapidly throughout this region, and their massive hives serve as a magnificent example of their industriousness and social coordination.\n\nTheir queens are equally impressive. I have witnessed more than one creature fall victim to their venomous sting.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Insect Aggression",
+        "content": "I have observed these flying insects for quite some time, and I have been very impressed with their intelligence and advanced communal behaviors.\n\nThey are also unbelievably aggressive, and none more than their formidable queen. I have seen more than one unsuspecting predator fall prey to her deadly sting. So exhilarating!",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Creatures: The Yeti",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Biological Mutation",
+        "content": "Each generation of yeti alphas that have lived in this cave have displayed drastic physical changes brought about by prolonged exposure to the loftite crystals located nearby.\n\nInteresting. I wonder what a more focused, controlled experiment might further reveal about this phenomenon...",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Creatures: The Giants",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Forest Defenders",
+        "content": "These large hybrid humanoids have evolved an extra-sensory perception of the forest’s collective life force, resulting in altruistic behaviors focused on protecting it from harm.\n\nTheir size and strength, as well as their aggression when provoked, make them formidable guardians.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "TODO Unexpected Success",
+        "content": "Although many of our experiments in this region have met with failure, the giant humanoids below are a welcome exception. Through a careful program of subtle infusion, we were able to enhance the creature using pure primal water.\n\nAlthough prone to fits of violence, the resultant organism is otherwise stable and more fit for survival in this unpredictable environment.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Primal Elemental: Life",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Diverse Evolution",
+        "content": "I always knew that we would observe indigenous life here, but I continue to be shocked at its variety. Take these rock creatures. Fascinating!\n\nInert chunks of stone infused with primal life, displaying a simple intelligence. This place is unique in all of the universe!",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "TODO Elemental Stabilization",
+        "content": "Due to the sheer volume and intensity of the power that is being channeled through this cavern, I have witnessed the spontaneous instantiation of elemental life forms on a number of occasions.\n\nAlthough these rarely live for long, it is feasible that devices could be made to stabilize them. I shall speak with the Pell about my theory, and see if they can aid me in constructing such a device.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Project: The Elderoot Initiative",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Collective Life Force",
+        "content": "What a discovery! The beauty and complexity of this tree’s interior is amazing, almost as if the tree itself created such a space for others to explore and experience.\n\nIt would not surprise me if this tree was blessed with a form of higher intelligence, perhaps connected to the planet’s collective life force in a way that we do not yet completely understand.\n\nNexus continues to inspire me.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Botanical Sentience",
+        "content": "I am very pleased with the progress that we have made on the Elderoot Initiative. It has long been known to us that plants of a certain age and size develop a primitive awareness of their surroundings, but we have amplified that awareness exponentially.\n\nPut simply, we are creating a sentient tree. What secrets will it reveal when at last it speaks?",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Evolution: Deradune",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Tragic Monument",
+        "content": "These massive skeletons belong to creatures that are no longer found on the planet’s surface. Undoubtedly, they existed during the Project's first phase.\n\nAlthough their rise and subsequent extinction were inevitable, I still find it tragic that such magnificent beasts were not able to survive.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Evolution: Celestion",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Pure Source",
+        "content": "My readings indicated a pure source of primal life within this forest, leading to the tree that now floats above me. What a fascinating specimen!\n\nIn all of my long life, I have never observed an organism so purely infused with primal power. I must take a closer look.\n\nWhat further secrets will it reveal?",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Evolution: Whitevale",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Frozen Death",
+        "content": "These trees have had a difficult time withstanding the extreme cold that plagues this region.\n\nI find it tragic, as many of these trees are more than a thousand years old-but the rigors of the Project do not allow me time to intervene. I can only hope they will find a way to survive.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {
+    "label": "Metal Maw",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Beneficial Traits",
+        "content": "The Metal Maw Initiative is one of our most advanced experiments - a combination of augmentation technology and advanced biomechanical engineering.\n\nWe have chosen a number of creatures whose traits fit our project parameters, and soon will begin the difficult process of combining them into a meta-organism engineered to dominate any ecological system.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Arachnids",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Predatory Efficiency",
+        "content": "I have long observed these arachnids, and I am very impressed with their evolutionary development. Structurally, they are almost without flaw, blessed with an instinctual predatory aggression that ensures their continued survival.\n\nI have collected extensive data on the species and plan to use it in my own future designs.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Ravenok",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Disturbing Similarities",
+        "content": "I have long studied the evolution of these predatory birds. They are fast, fierce, and intelligent.\n\nI have witnessed their flocks engage in coordinated attacks, but I have also observed them turn on their own if an individual exhibits weakness.\n\nI find it very curious. They are not so very unlike ourselves...",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Gorganoth",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Mysterious Delivery",
+        "content": "As per the request of my colleague Nazrek, I have created a larger, stronger and more aggressive version of organism X87, and had it delivered to this island.\n\nWhen asked about the reason for this work, Nazrek merely smiled and said \"everybody needs something to fear and worship.\"\n\nBeing not at all interested in what that might mean, or who would inevitably suffer from it, I left without another word.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Technology: Augmentation",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 2: Questioning Protocol",
+        "content": "I find the Maker’s latest 'innovation' distasteful, and I strongly disagree that we cannot reach perfection through biological means alone. This augmentation is a blunt tool at best, and destroys an organisms natural insight and instinct by installing cerebral mechanisms for control.\n\nI will soon bring my objections to the Archon...",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Facility: The Genetic Archives",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 4: Genetic Archives",
+        "content": "The facility below serves as the Genetic Archives for the Nexus Project, a vast storage repository that contains the genetic information from billions of organisms from across the galaxy.\n\nIt has been of great use to us in the creation of the Genesis Prime, and must be protected at all costs. There are dangerous things that might be done with such a trove of knowledge.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Genesis Prime",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Unalterable Impression",
+        "content": "I have heard Progenitor Nazrek touting his recent selection as one of the six. For my part, I have done my best to avoid discussions about the topic altogether.\n\nIt is true that the Archon approached me first, and it is also true that I refused him almost immediately. Perhaps it is cowardice on my behalf, but the sight of Nuriam after her transformation into Vitara made an unalterable impression on me.\n\nI have no interest in losing myself, even in pursuit of what may be our single greatest achievement.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "TODO Surface Sanctuary",
+        "content": "As Elyona trains and observes Drusera, I have been working with the Pell to prepare for the next phase of her development. We have designed this region to serve as her sanctuary on the planet’s surface, different in every way from the cold, scientific environment in which she has been confined below.\n\nThese Pell have been ordered to serve and protect her with their lives, a duty that I am certain they will faithfully execute until they are instructed otherwise.\n\nTo this point, I have avoided interacting with Drusera, despite Elyona's assurances that she is indeed everything that we had hoped she would be. I cannot say exactly why. Perhaps there is always fear when faced with the true expression of one's deepest desires.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Luminai Project",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 3: The Sacrifice",
+        "content": "We have completed our design for the Luminai Project, and now all that we require is a human specimen from which the hybrid organism will be created. After studying the list of acceptable candidates provided to us by the Mechari, I have chosen the female known as Tresayne Toria.\n\nHer strength, beauty, and fearlessness will make her the perfect \"mother\" for the new ruler of our galactic empire. I look forward to her imminent arrival.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 3: Hybrid Material",
+        "content": "With the recent arrival of the Cassian Tresayne Toria, the Luminai Project can now officially commence.\n\nAlthough we have not yet recorded her primal pattern, my preliminary analysis of her physiological data is extremely encouraging. She is an extraordinary human specimen, and will serve as the perfect template for our human-Eldan hybrid. I only hope that her... spiritedness... will not become an obstruction that results in her death.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Vitara Protocols",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 3: Magnificent Transformation",
+        "content": "The Vitara Protocols have concluded, and the result can only be described as... magnificent. Of all the Primevals that we have created, Vitara is by far the most impressive.\n\nI feel as if I can still sense Nuriam behind the creature’s eyes, but my mentor has now become something else. Something both infinitely wise and undeniably dangerous.\n\nI am not ashamed to admit that she frightens me.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Evolution: Wilderrun",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 2: Living Manifestation",
+        "content": "I am delighted to have discovered another specimen of this extraordinary tree. There is really nothing like it on this planet.\n\nCoursing with such pure energy, it is a living manifestation of the power of primal life itself. I cannot imagine that any source of blight or disease could ever cause it harm.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}]

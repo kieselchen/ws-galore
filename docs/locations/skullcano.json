@@ -1,0 +1,28 @@
+[{
+	"label": "Notes of the Eldan",
+	"entries": [{
+        "order": 1,
+        "headline": "Frivolous Diversion",
+        "content": "My previous modification of the Moodies has not been well received by my colleagues nor by the swollen-headed simpleton that parades as our Archon. Because of this, he has not so politely asked me to limit the practice of my \"frivolous hobbies\" on this remote island. Although I find his accusations both insulting and completely baseless, I must admit that I am looking forward to this little diversion.\n\nI have brought a few of my modified Moodies to share in the fun.",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }, {
+    	"order": 2,
+        "headline": "Hellish Excavations",
+        "content": "Why I find myself deep beneath this volcano is still a mystery to me, but I agreed to help Progenitor Nazrek with what he called a \"personal project,\" and so here I am. Nazrek requested that I shape a series of tunnels between the base of the volcano and its caldera above, ones that are traversable, but still deadly to most organic life forms.\n\nAnd why am I down here in this heat? Because, he said, \"you can’t have heaven without hell.\" Next he wants me to shape a skull into the side of the mountain!\n\nI did not even bother asking the reason for that.",
+        "source": "Datacube by Koral",
+        "sourcetype": "datacube"
+    },{
+        "order": 3,
+        "headline": "Mysterious Delivery",
+        "content": "As per the request of my colleague Nazrek, I have created a larger, stronger and more aggressive version of organism X87, and had it delivered to this island.\n\nWhen asked about the reason for this work, Nazrek merely smiled and said \"everybody needs something to fear and worship.\"\n\nBeing not at all interested in what that might mean, or who would inevitably suffer from it, I left without another word.",
+        "source": "Datacube by Ohmna",
+        "sourcetype": "datacube"
+    },{
+        "order": 4,
+        "headline": "Skullcano Island",
+        "content": "My project is complete! This terraformer now successfully turns lava into gold, providing the primitive Moodies below with a divine metal for them to covet - and one that may be extremely difficult for them to obtain.\n\nThis, along with the horrifying monstrosities below, should provide the Moodies with a rich, cultural mythology that will undoubtedly lead to thousands of their descendants perishing painfully as they attempt to reach the treasures that lie in the sacred heights of this cavern.\n\nNow... let the drama of Skullcano Island commence! Oh, I should have done this a long time ago...",
+        "source": "Datacube by Nazrek",
+        "sourcetype": "datacube"
+    }]
+}]

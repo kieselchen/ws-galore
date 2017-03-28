@@ -1,0 +1,253 @@
+[{
+    "label": "Technology: Terraforming",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 0: Geologic Malfunction",
+        "content": "The recent malfunction of the prototype terraformer has resulted in an interesting geologic anomaly. As the device no longer rotates, the balance of the primal matrix is no longer maintained. The result?\n\nA small crystalline outgrowth on the ground beneath this actuator. Despite my reservations, the Shapers have requested that I leave the device on, as they are interested in the long-term results of this situation.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Aborted Effort",
+        "content": "As per the request of the Shapers, I have delivered the terraformer - but a subterranean scan of this region has revealed a massive reservoir of primal water directly beneath it, and I am recommending that the experiment be aborted immediately.\n\nInitiating the device in such an unstable environment would have catastrophic results.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Primal Matrix",
+        "content": "The primal energy matrix in this region is exponentially stronger than any I have ever measured.\n\nAs a result, I have created a device that can directly access the matrix and then convert and store the power for later use.\n\nSuch technology has always been theoretically feasible, but the unique properties of Nexus have made it a reality. With access to this almost unlimited power source, there is almost nothing we cannot achieve here.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Focus Technology",
+    "entries": [{
+        "order": 1,
+        "headline": "Phhase 0: Focused Technology",
+        "content": "I have recently finished the design for the six Primal Focuses that will be located at various locations across planet Nexus.\n\nThese will be essential to completing the first phase of the Project, but I foresee other, more interesting applications for them as well.\n\nI am not one to sing my own praises, but these devices are some of the most advanced pieces of technology that the Eldan have ever created.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Primal Energy: Life",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Primal Disruptor",
+        "content": "The Primal Disruptor provides an abundant source of power by transforming elemental life forms into refined loftite crystals.\n\nTheir sacrifice is necessary if we are to advance the great work that we are doing here.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Primal Energy: Water",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Toxic Result",
+        "content": "We continue to have difficulties manipulating primal water - and our latest experiment has been especially disappointing. The resultant material was so toxic that we were forced to seal off the underground cavern in which the experiment took place.\n\nI only hope that it never finds its way to the surface.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: System Failure",
+        "content": "Our initial prototype for harnessing primal water must be counted a stunning failure. Unlike similar efforts with primal air, this device was unable to derive a stable matrix from the substance, resulting in a violent reaction that tore it apart.\n\nLetting off explosive gouts of steam, the remaining pieces slid unceremoniously into the ice.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 1: Deadly Reaction",
+        "content": "Again, we are forced to seal away an experiment relating to the manipulation of primal water. I had hoped that this iteration would prove more stable, but I was gravely mistaken.\n\nI can only imagine what horrors befell our Pell servants who were trapped below...",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Primal Energy: Air",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Uncertain Trust",
+        "content": "Aviel has asked me to construct a number of power converters for what she calls her \"secret little project\" inside the nearby caves. I generally try to avoid the kind of trouble that comes with the Weavers, and especially Aviel, but cooperation and collaboration among the Orders will be vital if we are to achieve our great work on Nexus.\n\nI only hope she does not betray my trust.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Facility: The Techno-Core",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 4: Impermeable Defense",
+        "content": "I have done it! By synchronizing the algorithmic matrices of our digital languages, I have created an impermeable, encrypted layer of security for the Project’s technology on Nexus. Now all of our facilities and constructs will be safe from outside sources of invasion or corruption. Only I know the sequence to unlock the encryption, and I am currently engineering an advanced device to store it for all eternity.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 4: The Techno-Core",
+        "content": "Behold! The Techno-Core! Built to store and protect the encryption for our technological security layer, it recalculates the formula in multi-dimensional phase space every nanosecond while simultaneously re-encrypting the derived values using the ever-shifting quantum structure of the device itself.\n\nThe resulting encryption is literally unbreakable. Our technology will forever be secure.\n\nI am the only individual in the universe with the knowledge to access the device, and nothing in existence could compel me to compromise its security.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Technology: The Caretaker",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 0: Problematic Prototype",
+        "content": "I have constructed an early prototype of an AI construct I am calling \"the Caretaker\". Early tests of its capabilities have been successful, although a number of glitches in its neural architecture often result in systemic network fractures.\n\nDespite these setbacks, the Pell have become very interested in the Caretaker, and I often find them interacting with his various nodes...",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "TODO Artificial Intelligence",
+        "content": "The Caretaker is one of my greatest creations, a fabricated sentience whose intelligence is almost without limit.\n\nSuch power allows him to monitor and control all aspects of the Project simultaneously, although I do fear that a catastrophic event could lead to a critical fracturing of his personality core.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Species: The Osun",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Intimidating Construction",
+        "content": "The OS-1’s engineering skills are formidable. Every aspect of their architecture is intimidating, conveying their inherent need to conquer and subjugate. In time, they will be an unstoppable military juggernaut. I would not relish the thought of being their enemy.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "TODO Genesis Prime",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Unintended Results",
+        "content": "The Archon has allowed to me see the design schematics for the device that will create the Genesis Prime. I am awestruck at both its elegance and complexity, but I also have concerns that there are both technological and biological aspects of the process that I do not yet completely understand.\n\nI must study further. A lack of scientific clarity usually leads to unintended, and often disastrous, results.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "TODO Irrefutable Rationality",
+        "content": "In light of the imminent conclusion of the Nexus Project, I have requested that my name be taken off the list of potential vessels for the Genesis Prime. As I have been directly responsible for constructing the device that will make its creation possible, it seems illogical that anyone but myself should operate the device when the time comes.\n\nThe Archon vehemently attempted to change my opinion, and told me repeatedly that I was the greatest mind in the history of my Order and thus deserving of the honor - but in the end, he could not disagree with the rationality of my argument.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "TODO Negative Consequences",
+        "content": "My analysis of the scientific data collected during the creation of the Genesis Prime has brought to light a number of inconsistencies that are both subtle and disturbing. Although Drusera herself seems to be without obvious flaw, the data indicates that certain design parameters were adjusted without my knowledge, just before the initiation of the Protoplasmic Resonator.\n\nI am attempting to ascertain the possible ramifications of such an adjustment, but the variables involved are improbably complex. I can only hope that this development will not have negative consequences.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Technology: Augmentation",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 2: Omni-Plasmic Control",
+        "content": "This facility has been constructed solely for the purpose of producing and storing omni-plasm, the nanite-infused liquid that makes augmentation technology possible.\n\nFrom this location, I can directly modify the nanite's algorithms which govern the creation of cybernetic enhancements, providing me with precise control at the molecular level. We approach ever closer to the goals of the Project.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 2: Technological Enhancement",
+        "content": "The process of Augmentation is an important step for the larger goals of the Project. Through our advanced nanotechnology, we can now cybernetically enhance organisms, correcting the inherent weaknesses and flaws that inevitably rise through natural evolution.\n\nTrue perfection might finally be within our grasp...",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "Phase 2: Functional Immortality",
+        "content": "This spider represents a landmark in the development of Augmentation technology. I released an augmented organism into its lair, which it immediately attacked and then partially consumed.\n\nWithin minutes, the nanites from the victim began augmenting the spider, reprogramming themselves based on the biological traits of their new host. Not unlike certain biological viruses, these nanites have, in effect, become immortal.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 4,
+        "headline": "Phase 2: Successful Iteration",
+        "content": "This experiment was a success, as these creatures now display greater strength, ferocity and intelligence as a result of the augmentation. I have extracted all useful data, and will now seal the caverns that contain the affected subjects.\n\nIt would be most unwise to unleash this population upon the surface.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 5,
+        "headline": "Phase 2: Sentient Control",
+        "content": "The Progenitor's objections to Augmentation have forced me to rethink my design, especially as it relates to sentient beings. Although I cannot stand their meddling, I must admit the validity of their observations.\n\nI am creating a newer prototype with much more subtle cerebral controls. The subject may not even know what has taken place...",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 6,
+        "headline": "Phase 2: Augmented Life",
+        "content": "I believe that I have finally developed a stable process for biomechanical improvement. I call it augmentation. Using nanotechnology, I have been able to re-engineer organisms at the molecular level, eradicating their inherent weaknesses through cybernetic enhancements. The Archon was extremely impressed with my early simulations, but has requested more tangible results. I begin work on biological subjects immediately.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 7,
+        "headline": "Phase 2: Modified Clones",
+        "content": "Along with my recent focus on developing augmentation technology, I have also been experimenting with the advanced cloning techniques developed by the Progenitors. By extracting an organism’s primal pattern, it is possible to create unlimited biological duplicates – which can then be significantly enhanced using augmentation. Applications? Rapidly creating a powerful military force would be the most obvious.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 8,
+        "headline": "Phase 2: Cybernetic Progress",
+        "content": "We have continued to make impressive strides in augmentation technology. I have recently developed a more effective version of omni-plasm, one that results in more powerful cybernetic enhancements and weapons systems. The limitations of the flesh are no longer a concern for us.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 9,
+        "headline": "Phase 4: Infallible Perfection",
+        "content": "I am not deaf to the whispers among my colleagues. They believe I have become unhinged, dangerously obsessed with my work in this facility.\n\nPerhaps they are correct... but has there ever been a greater reason for obsession? We approach what may be the most important event in the history of the universe itself, and my understanding and control of the technological mechanisms involved must be infallible!\n\nI will accept nothing less than perfection, and none will stand in my way!",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Projects: The Osiric Protocols",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 2: Imminent Transformation",
+        "content": "We have finished the Incubator and installed it in the cave at the end of this canyon... and one of the Pell has volunteered to be our first test subject for sentient infusion. I look forward to seeing the outcome.\n\nIf we are successful, achievement of the Osiric Protocols will soon be within our grasp.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Focus Technology: Air",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 2: Destructive Modification",
+        "content": "Our recent modifications of the Focus of Air for the Osiric Protocols have given me insight about other ways it might be utilized. With only a few minor adjustments, it could be transformed into a powerful weapon of unprecedented destructive capabilities. We must ensure that it never falls into the wrong hands…",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Evolution Malgrave",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 4: Spectral Echoes",
+        "content": "As per the request of the Progenitors, I have installed a number of Matrix Amplifiers in this region. These devices should hyper-accelerate the physiological development of local creatures, increasing their size exponentially, but they might also have an interesting side effect.\n\nAs the strength and density of the life matrix increases, the primal patterns of nearby organisms could hypothetically be imprinted as well - resulting in \"spectral echoes\" that would persist long after the organisms themselves had perished.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}]
+/*
+    {
+        "order": 1,
+        "headline": "TODO Augmentation Prototype",
+        "content": "The subterranean creatures that exist beneath these rocks will serve a suitable test case for the most recent enhancements to augmentation technology. Currently, they are little more than mindless beasts, but this technology should be able to greatly enhance their biological limitations.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+      },{
+        "order": 1,
+        "headline": "TODO Concealed Knowledge",
+        "content": "We have constructed this facility beneath the OS-1’s city in order to better observe their development. The Archon has also requested that I begin advanced designs for their weapons and armor, as well as for devices that will allow them to control our constructs in combat situations. Although this facility is completely secure, I do have concerns about what might happen if they somehow obtain this knowledge before we deem them ready.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+      },{
+        "order": 1,
+        "headline": "TODO Power Conduit",
+        "content": "The primal energy we have collected in the canyon is more than sufficient to power the Incubator, and this location serves a conduit to regulate its flow and consumption. Currently, there is no plan to use the excess energy, but the Pell have assured me it will not go to waste.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+      }    */
+}*/
+}*/
+}*/
+}*/
+}*/
+}*/
+}*/
+}*/
+}*/
+}*/
+}*/
+}*/
+}*/
+}*/
+}*/
+}*/
+}*/
+}*/
+}*/

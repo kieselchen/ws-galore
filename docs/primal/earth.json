@@ -1,0 +1,19 @@
+[{
+    "label": "Focus Technology",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 0: Focused Technology",
+        "content": "I have recently finished the design for the six Primal Focuses that will be located at various locations across planet Nexus.\n\nThese will be essential to completing the first phase of the Project, but I foresee other, more interesting applications for them as well.\n\nI am not one to sing my own praises, but these devices are some of the most advanced pieces of technology that the Eldan have ever created.",
+        "source": "Datacube by Vorion",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Primal Energy",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Focused Enhancement",
+        "content": "The black volcanic stone in this region is naturally infused with high levels of primal earth and life, resulting in the formation of these elemental creatures. \n\nI have decided to install a number of primal focusers in this particular location, assuming that it will result in the creation of a larger and more destructive specimen.\n\nPerhaps I will unleash it on the Maker's new augmentation facility to the east.",
+        "source": "Datacube by Aviel",
+        "sourcetype": "datacube"
+    }]
+}]

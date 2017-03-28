@@ -1,0 +1,118 @@
+[{
+    "label": "Technology: Terraforming",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Grim Warning",
+        "content": "There is a dangerous sort of beauty to this region, with its formidable, towering walls of ice and violent swirling snowstorms.\n\nScientifically, these things can be explained away through their nearness to the Focus of Water - but personally I feel as if they stand as a grim warning about the dangerous experiment that we are about to engage in.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Technology: Evocation",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Artificial Evocation",
+        "content": "The Makers have constructed this crude device that simulates the natural process of evocation - using the primal pattern of local wildlife to manifest an organism of pure energy.\n\nNot surprisingly, this requires a great deal of power, and the pathetic machine is unable to maintain a stable projection for long. The Makers and their toys.\n\nAs I have always said, it is the mind that is our greatest weapon.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Primal Phenomenon",
+        "content": "This region is truly fascinating. The intensity of its natural primal matrices is beyond anything that I’ve ever experienced, allowing me to manifest evocations of unexpected power. \n\nThese intensities also have a tangible impact on the life forms that exist in this forest, often resulting in individuals with drastically different physiologies and biological traits. This particular location seems especially prone to the phenomenon.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Species: The Osun",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Undeniable Foreboding",
+        "content": "I have completed my survey of the OS-1’s city. Although I cannot deny their formidableness, there is an oppressive weight to their architecture which makes it difficult to endure for long.\n\nSometimes I fear that the Progenitors may have been too successful in their creation. Standing in the shadows of these massive walls, I feel a sense of undeniable foreboding.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 1: Brutal History",
+        "content": "In a very short time, these Osun have developed a rich cultural mythology based on significant individuals from their short and colorful history.\n\nIt is of no surprise that all of them displayed an innate viciousness and brutality which in most cases led to a violent demise. Such are the heroes that the Osun choose to venerate.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {
+    "label": "Genesis Prime",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Remarkable Creature",
+        "content": "This is truly an exciting time! I have been tasked with observing and training Drusera – the Genesis Prime. Because her innate powers of creation are facilitated through an advanced form of evocation, it was only logical that one of the Evokers would be responsible for helping her reach her true potential.\n\nI have only met her once, and she is indeed a remarkable creature. Blessed with intelligence, beauty, innocence, and virtually unlimited power, she is unquestionably the Eldan’s greatest accomplishment.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "TODO Unusual Capabilities",
+        "content": "Drusera’s training is proceeding incredibly well, and she has already grasped the most advanced disciplines in evocation seemingly without effort. It is almost as if she were born with the inherent knowledge, as if the six were somehow instructing her subconsciously.\n\nOf course, Vorion has told me that this is impossible given the technicalities of her creation. But still, I feel as if something... unusual is happening within her mind.\n\nFor my part, I find myself becoming increasingly fond of her. She confronts her new existence with a sense of expectation and wonder, despite the oppressive surroundings of this facility. I can find no flaw in her, no malice or pettiness. She is indeed perfect in every way.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 3,
+        "headline": "TODO Behavioral Anomalies",
+        "content": "I do not wish to alarm the others, but I have begun to observe what I can only describe as... unusual behaviors in Drusera. I have been pushing her very hard in our most recent lessons, and I hope that these episodes are merely cerebral anomalies brought about by stress.\n\nI will keep these observations to myself for now. I would hate to burden the others with what I am hopeful will turn out to be baseless concerns.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Projects: The Luminai Project",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 3: Devotional Trait",
+        "content": "Each time observe these humans, I am surprised at their continued devotion to Vitara. As a species, their need for something to worship defines them – which, of course, is why they were selected in the first place.\n\nBut if our efforts with the Genesis Prime are successful, there will soon be an altogether different god for them to serve.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "Phase 3: Unexpected Longevity",
+        "content": "I recently learned that Tresayne Toria and her “swordsisters” are still alive in this jungle, preserved for hundreds of years by the intense energies of the Focus of Life.\n\nThey have also pledged their eternal allegiance to Vitara, although what possible use the creature might have for these humans is well beyond my comprehension.\n\nI try to imagine their lives, helpless victims of circumstance torn from their homes, living forever on a hostile alien world from which they can never escape.\n\nTheir story, although the stuff of legends, is incomparably tragic.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Evolution: Celestion",
+    "entries": [{
+        "order": 1,
+        "headline": "Phase 1: Fascinating Flora",
+        "content": "These trees display a measurable proto-sentience, almost an awareness of the energetic fields of primal life inherent to the forest. If another plant or organism in this region feels pain, these trees do also.\n\nThe existence of such advanced sensitivities in plant life is unprecedented. This planet is indeed the perfect place to complete our great work.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }, {
+        "order": 2,
+        "headline": "TODO Silent Ignorance",
+        "content": "I have walked through this forest for hours and stopped to collect my thoughts. There are times when I envy these trees, whose sole purpose is to thrive and grow in the small space allotted to them.\n\nSilent and strong, they are unburdened by ambition or malevolence or regret... and blissfully unaware of the darkness which often surrounds them.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Deradune",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Mesmerizing Distraction",
+        "content": "It is easy to be mesmerized by the beauty of this place, by the natural wonders that surround us at every turn.\n\nBut we must never forget exactly what we are trying to achieve here -and the inherent dangers that await us if indeed the Project is successful.",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Auroria",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Dark Ruminations",
+        "content": "I came here to spend a few moments alone, away from the others. But I must admit that the grisly collection of old bones here has put me in a dark mood.\n\nWhat stories would these creatures tell, had they not met their deaths here in the dark of these caverns? And what stories will our bones tell if we somehow meet an untimely demise?",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}, {
+    "label": "Giant Robots",
+    "entries": [{
+        "order": 1,
+        "headline": "TODO Profound Horror",
+        "content": "The sight of these machines inevitably makes me melancholy. Bold and courageous explorers, they decided to brave the dark reaches of the unknown and were destroyed by what they found when they arrived there.\n\nWere their dreams and desires so very different from our own? And how profound their horror when they realized the extent of their mistake?",
+        "source": "Datacube",
+        "sourcetype": "datacube"
+    }]
+}]
